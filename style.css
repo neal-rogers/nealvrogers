@@ -1,0 +1,125 @@
+body {
+	font-family: "open sans";
+}
+
+header ul {
+	padding-bottom: 2em;
+	float: right;
+	margin-top: -1em;
+}
+
+header ul li {
+	display: inline;
+	padding-right: 1em;
+	text-transform: uppercase;
+}
+
+header ul li a {
+	color: #FFF;
+	text-decoration: none;
+
+}
+
+header ul li a:hover {
+	color: #F02E61;
+}
+
+header {
+	padding: 2em 1em;
+	background-color: yellow;
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(coolbg.jpg);
+	height: 85vh;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+}
+
+header h1 {
+	font-size: 4em;
+	padding-bottom: 1em;
+	color: #FFF;
+	padding-left: 2em;
+}
+
+header h2, header h3 {
+	color: #FFF;
+	max-width: 40em;
+	padding-left: 8em;
+	line-height: 2em;
+}
+
+header h1, header h2, header h3 {
+	position: relative;
+	top: 25%;
+	transform: translateY(25%);
+}
+
+@media screen and (max-width: 700px) {
+	header h1 {
+		padding-left: .25em;
+	}
+
+	header h2, header h3 {
+		padding-left: 1em;
+	}
+}
+
+.images {
+	display: inline;
+}
+
+.images img {
+	max-width: 33%;
+}
+
+header h3 {
+	padding-top: 2.5em;
+}
+
+header h3 a {
+	color: #FFF;
+	text-decoration: none;
+	padding: .8em 1em;
+	background-color: #F02E61;
+	border-radius: 5px;
+}
+
+header h3 a:hover {
+	transition: ease-in-out .5s;
+	background-color: #B5244A;
+}
+
+header h4 {
+	color: #FFF;
+	font-size: 1.4em;
+	font-style: italic;
+}
+
+.button {
+	height: 25em;
+	background-color: #F02E61;
+	padding: 3em;
+}
+
+.image {
+	float: left;
+	margin-right: 2em;
+}
+
+.image-description {
+	color: #FFF;
+	font-size: 1.5em;
+	padding-left: 2em;
+	vertical-align: top;
+}
+
+.image-description p {
+	font-size: .6em;
+	padding-top: 1em;
+	max-width: 70em;
+}
+
+.portfolio-main {
+	max-width: 60em;
+	margin: 0 auto;
+}
