@@ -119,12 +119,6 @@ header ul li a:hover {
 	color: #F02E61;
 }
 
-.button {
-	height: 25em;
-	background-color: #F02E61;
-	padding: 3em;
-}
-
 .dropdown {
 	display: block;
 	position: relative;
@@ -136,6 +130,7 @@ header ul li a:hover {
 	position: absolute;
 	left: 0;
 	text-align: left;
+	padding-top: 2em;
 }
 
 .dropdown:hover .dropdown-content {
@@ -181,6 +176,9 @@ header ul li a:hover {
 	height: 95vh;
 	width: 34%;
 	text-align: center;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
 }
 
 .navbar {
@@ -225,5 +223,5 @@ header ul li a:hover {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.jpg);
+	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.jpg);
 }
