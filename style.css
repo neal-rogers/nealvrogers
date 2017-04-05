@@ -65,13 +65,13 @@ header {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.jpg);
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.png);
 }
 
 header h1 {
 	font-size: 3em;
 	color: #FFF;
-	padding-top: 3em;
+	padding-top: 4em;
 }
 
 header h2, header h3 {
@@ -80,7 +80,7 @@ header h2, header h3 {
 }
 
 header h3 {
-	padding-top: 1em;
+	padding-top: 2em;
 }
 
 header h3 a {
@@ -182,7 +182,7 @@ header ul li a:hover {
 }
 
 .navbar {
-	background-color: #95a5a6;
+	background-color: #ffffff;
 	font-size: 1.25em;
 	height: 1.25em;
 	list-style-type: none;
@@ -216,12 +216,12 @@ header ul li a:hover {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-2.jpg);
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-2.png);
 }
 
 .design {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.jpg);
+	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.png);
 }
