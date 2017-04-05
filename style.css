@@ -56,14 +56,14 @@ h3 a {
 	text-decoration: none;
 	padding: 1em 2em;
 	background-color: #f15a22;
-	border-radius: 25px;
+	border-radius: 50px;
 }
 
 header {
 	background-color: #ecf0f1;
 	height: 95vh;
 	background-attachment: fixed;
-	background-position: center center;
+	background-position: center padding-top;
 	background-size: cover;
 	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.png);
 }
@@ -171,6 +171,15 @@ header ul li a:hover {
 	width: 33%;
 }
 
+.main-container {
+	background-color: #ecf0f1;
+	height: 95vh;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.png);
+}
+
 .mid-container {
 	display: inline;
 	float: left;
@@ -222,7 +231,7 @@ header ul li a:hover {
 
 .design {
 	background-attachment: fixed;
-	background-position: center center;
+	background-position: center bottom;
 	background-size: cover;
 	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.png);
 }
