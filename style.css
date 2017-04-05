@@ -56,7 +56,7 @@ h3 a {
 	text-decoration: none;
 	padding: 1em 2em;
 	background-color: #f15a22;
-	border-radius: 50px;
+	border-radius: 25px;
 }
 
 header {
@@ -74,9 +74,10 @@ header h1 {
 	padding-top: 4em;
 }
 
-header h2, header h3 {
+header h2 {
 	color: #FFF;
 	line-height: 2em;
+	padding-top: 1em;
 }
 
 header h3 {
