@@ -15,6 +15,18 @@ body {
 	width: 100%;
 }
 
+footer {
+	background-color: #95a5a6;
+	font-size: 1.25em;
+	height: 3em;
+	list-style-type: none;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	z-index: 9998;
+	text-transform: uppercase;
+}
+
 h1 {
 	font-size: 3em;
 	letter-spacing: .25em;
@@ -26,11 +38,13 @@ h1 {
 
 h2 {
 	color: #FFF;
+	font-size: 1em;
 	letter-spacing: .25em;
 	line-height: 2em;
 }
 
 h3 {
+	font-size: 1.5em;
 	letter-spacing: .25em;
 	line-height: 2em;
 	padding-top: 2em;
@@ -42,7 +56,7 @@ h3 a {
 	text-decoration: none;
 	padding: 1em 2em;
 	background-color: #f15a22;
-	border-radius: 25px;
+	border-radius: 50px;
 }
 
 header {
@@ -51,7 +65,7 @@ header {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.jpg);
 }
 
 header h1 {
@@ -73,7 +87,7 @@ header h3 a {
 	color: #FFF;
 	text-decoration: none;
 	background-color: #f15a22;
-	border-radius: 25px;
+	border-radius: 50px;
 }
 
 header h3 a:hover {
@@ -159,11 +173,9 @@ header ul li a:hover {
 	float: left;
 	height: 95vh;
 	width: 33%;
-	background-color: #bdc3c7;
 }
 
 .mid-container {
-	background-color: #7f8c8d;
 	display: inline;
 	float: left;
 	height: 95vh;
@@ -200,13 +212,18 @@ header ul li a:hover {
 	float: right;
 	height: 95vh;
 	width: 33%;
-	background-color: #bdc3c7;
 }
 
 .art {
-
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-2.jpg);
 }
 
 .design {
-
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.jpg);
 }
