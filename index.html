@@ -5,41 +5,55 @@
 	<meta name="viewport" content="width=device-width, intial-scale=1">
 	<link rel="stylesheet" href="reset.css">
 	<link rel="stylesheet" href="style.css">
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300,400italic' rel='stylesheet' type='text/css'>
-	<title>Neal's Bullshit Site</title>
+	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300,400italic' rel='stylesheet' type='text/css'>
+	<title>Neal Rogers</title>
 </head>
-
 <body>
 	<header>
-		<h4>Neal Rogers</h4>
-		<nav>
-			<ul>
-				<LI>
-					<a href="#">About</a>
-				</LI>
-				<LI>
-					<a href="##">Blog</a>
-				</LI>
-				<LI>
-					<a href="###">Pics</a>
-				</LI>
-			</ul>
-		</nav>
-		<h1>Portfolio</h1>
-		<h2>Hello. We are a multi-disciplinary team working together to craft awesome websites, realise brand identities, design for print and capture visual imagery through photography. Take a look at some of our work below.</h2>
-		<h3><a href="#portfolio">Read More</a></h3>
+		<div class="navbar">
+			<h4>Neal Rogers</h4>	
+				<ul>
+					<li class="dropdown">
+						<a href="#">Work</a>
+							<ul class="dropdown-content">
+									<li class="sub-menu"><a href="#art">Art</a></li>
+									<li class="sub-menu"><a href="#design">Design</a></li>
+							</ul>
+					</li>
+					<li class="dropdown">
+						<a href="#">About</a>
+							<ul class="dropdown-content">
+									<li class="sub-menu"><a href="#bio">Bio</a></li>
+									<li class="sub-menu"><a href="#resume">Resume</a></li>
+							</ul>
+						</li>
+					<li class="dropdown">
+						<a href="#">Contact</a>
+							<ul class="dropdown-content">
+									<li class="sub-menu"><a href="#email">Email</a></li>
+									<li class="sub-menu"><a href="#social">Social</a></li>
+							</ul>
+				</ul>
+			</div>
+			<div class="left-container">
+				<h1>Artist.<br>Designer.<br>New Yorker.</h1>
+				<h2>Hello. Here is some placeholder text. That's literally all this is.</h2>
+				<h3><a href="#portfolio">Explore my work</a></h3>
+			</div>
+			<div class="mid-container">
+				<h1>Artist.<br>Designer.<br>New Yorker.</h1>
+				<h2>Hello. Here is some placeholder text. That's literally all this is.</h2>
+				<h3><a href="#portfolio">Explore my work</a></h3>
+			</div>
+			<div class="right-container">
+				<h1>Artist.<br>Designer.<br>New Yorker.</h1>
+				<h2>Hello. Here is some placeholder text. That's literally all this is.</h2>
+				<h3><a href="#portfolio">Explore my work</a></h3>
+			</div>
 	</header>
-
-	<div class="portfolio1">
-		<div class="portfolio-main">
-			<div class="image">
-				<img src="portfolio1.jpg">
-			</div>
-			<div class="image-description">
-				<h1>Chesterfield Parks & Recreation</h1>
-				<p>This project was a huge pain in the ass. Shoud have been full-color but was printed in black and white. Parks didn't plan on printing in vast quantities.</p>
-			</div>
-		</div>
-	</div>
+	<section class="art">
+	</section>
+	<section class="design">
+	</section>
 </body>
 </html>
