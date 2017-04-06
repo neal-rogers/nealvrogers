@@ -70,7 +70,7 @@ header {
 	background-attachment: fixed;
 	background-position: center padding-top;
 	background-size: cover;
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.png);
+	background-image: url(img/bg-img-1.png);
 }
 
 header h1 {
@@ -138,6 +138,9 @@ header ul li a:hover {
 	color: #F02E61;
 }
 
+img {
+}
+
 .dropdown {
 	display: block;
 	position: relative;
@@ -155,46 +158,11 @@ header ul li a:hover {
 	display: block;
 }
 
-.images {
-	display: inline;
-}
-
-.images img {
-	max-width: 33%;
-}
-
-.image {
-	float: left;
-	margin-right: 2em;
-}
-
-.image-description {
-	color: #FFF;
-	font-size: 1.5em;
-	padding-left: 2em;
-	vertical-align: top;
-}
-
-.image-description p {
-	font-size: .6em;
-	padding-top: 1em;
-	max-width: 70em;
-}
-
 .left-container {
 	display: inline;
 	float: left;
 	height: 95vh;
 	width: 33%;
-}
-
-.main-container {
-	background-color: #ecf0f1;
-	height: 95vh;
-	background-attachment: fixed;
-	background-position: center center;
-	background-size: cover;
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-1.png);
 }
 
 .mid-container {
@@ -203,9 +171,6 @@ header ul li a:hover {
 	height: 95vh;
 	width: 34%;
 	text-align: center;
-	background-attachment: fixed;
-	background-position: center center;
-	background-size: cover;
 }
 
 .navbar {
@@ -241,15 +206,15 @@ header ul li a:hover {
 }
 
 .art {
-	background-attachment: fixed;
+	/*background-attachment: fixed;
 	background-position: center center;
-	background-size: cover;
-	background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-2.png);
+	background-size: cover;*/
+	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-2.png);
 }
 
 .design {
-	background-attachment: fixed;
+	/*background-attachment: fixed;
 	background-position: center bottom;
-	background-size: cover;
-	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-3.png);
+	background-size: cover;*/
+	background: url(img/bg-img-3.png);
 }
