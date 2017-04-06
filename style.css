@@ -131,6 +131,7 @@ header ul li a {
 	text-align: center;
 	color: #fff;
 	text-decoration: none;
+	height: 40px;
 }
 
 header ul li a:hover {
