@@ -218,3 +218,12 @@ img {
 	background-size: cover;*/
 	background: url(img/bg-img-3.png);
 }
+
+.outer-container {
+ height: 100vh;
+}
+
+.inner-container {
+	width: 33.3%;
+	display: inline-block
+}
