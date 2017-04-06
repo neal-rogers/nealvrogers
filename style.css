@@ -59,6 +59,11 @@ h3 a {
 	border-radius: 50px;
 }
 
+h4 {
+	letter-spacing: .25em;
+	display: inline-block;
+}
+
 header {
 	background-color: #ecf0f1;
 	height: 95vh;
@@ -81,7 +86,6 @@ header h2 {
 }
 
 header h3 {
-	padding-top: 2em;
 }
 
 header h3 a {
@@ -101,18 +105,31 @@ header h4 {
 }
 
 header ul {
-	padding-right: .75em;
+	/*padding-right: .75em;
 	float: right;
-	margin-top: -1em;
+	margin-top: -1em;*/
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position: relative;
+	float: right;
 }
 
 header ul li {
-	display: inline;
-	padding-right: 1em;
+	/*display: inline;
+	padding-right: 1em;*/
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
 }
 
 header ul li a {
-	color: #FFF;
+	/*color: #FFF;
+	text-decoration: none;*/
+	display:block;
+	min-width: 100px;
+	text-align: center;
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -126,12 +143,11 @@ header ul li a:hover {
 }
 
 .dropdown-content {
-	background-color: #F7F3E3;
+	background-color: #FFFFFF;
 	display: none;
 	position: absolute;
 	left: 0;
 	text-align: left;
-	padding-top: 2em;
 }
 
 .dropdown:hover .dropdown-content {
@@ -195,6 +211,7 @@ header ul li a:hover {
 	background-color: #ffffff;
 	font-size: 1.25em;
 	height: 1.25em;
+	letter-spacing: .25em;
 	list-style-type: none;
 	padding: 15px;
 	position: fixed;
