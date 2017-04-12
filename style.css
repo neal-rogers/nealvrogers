@@ -6,13 +6,131 @@
 	header h2, header h3 {
 		padding-left: 1em;
 	}
+
+	h1 {
+
+	}
+
+	h2 {
+
+	}
+
+	h3 {
+
+	}
+
+	p {
+
+	}
+
 }
 
 body {
+	color: #0a0a0b;
 	font-family: "Source Sans Pro";
+	font-weight: 400;
 	height: 100%;
-	color: #000;
-	width: 100%;
+	letter-spacing: .05em;
+}
+
+h1 {
+	font-size: 4em;
+	font-weight: 500;
+	letter-spacing: .08em;
+	line-height: 1em;
+	padding: 2.5em 0 0 0;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #FFF;
+	font-size: 2.5em;
+	font-weight: 300;
+	letter-spacing: .07em;
+	line-height: 1em;
+	padding: 2em 0 0 0;
+	text-transform: uppercase;
+}
+
+h3 {
+	color: #FFF;
+	font-size: 2em;
+	font-weight: 500;
+	line-height: 1em;
+	padding: 1em 0 0 0;
+	text-transform: uppercase;
+}
+
+h3 a {
+	/*background-color: #f15a22;*/
+	color: #FFF;
+	padding: 1em 1em;
+	text-decoration: none;
+
+	border-color: #f15a22;
+	border-style: solid;
+	border-width: 3px;
+}
+
+p {
+	color: #0a0a0b;
+	font-size: 1.5em;
+	font-weight: 
+	letter-spacing: .05em;
+	line-height: 1em;
+	padding: 1.5em 0 0 0;
+}
+
+header {
+	background-color: #ecf0f1;
+	height: 95vh;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background-image: url(img/bg-img-1.png);
+}
+
+header h3 a {
+	color: #FFF;
+	text-decoration: none;
+	background-color: #f15a22;
+}
+
+header h3 a:hover {
+	transition: ease-in-out .5s;
+	background-color: #f15a22;
+}
+
+header h4 {
+	padding-left: .75em;
+	display: inline-block;
+}
+
+header ul {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	position: relative;
+	float: right;
+}
+
+header ul li {
+	display:inline-block;
+	float: left;
+	margin-right: 1px;
+}
+
+header ul li a {
+	display:block;
+	min-width: 100px;
+	text-align: center;
+	color: #fff;
+	text-decoration: none;
+	height: 40px;
+}
+
+header ul li a:hover {
+	color: #f15a22;
 }
 
 footer {
@@ -27,122 +145,11 @@ footer {
 	text-transform: uppercase;
 }
 
-h1 {
-	font-size: 3em;
-	letter-spacing: .25em;
-	padding-top: 3em;
-	padding-bottom: .5em;
-	color: #FFF;
-	text-transform: uppercase;
-}
-
-h2 {
-	color: #FFF;
-	font-size: 1em;
-	letter-spacing: .25em;
-	line-height: 2em;
-}
-
-h3 {
-	font-size: 1.5em;
-	letter-spacing: .25em;
-	line-height: 2em;
-	padding-top: 2em;
-	text-transform: uppercase;
-}
-
-h3 a {
-	color: #FFF;
-	text-decoration: none;
-	padding: 1em 2em;
-	background-color: #f15a22;
-	border-radius: 50px;
-}
-
-h4 {
-	letter-spacing: .25em;
-	display: inline-block;
-}
-
-header {
-	background-color: #ecf0f1;
-	height: 95vh;
-	background-attachment: fixed;
-	background-position: center padding-top;
-	background-size: cover;
-	background-image: url(img/bg-img-1.png);
-}
-
-header h1 {
-	font-size: 3em;
-	color: #FFF;
-	padding-top: 4em;
-}
-
-header h2 {
-	color: #FFF;
-	line-height: 2em;
-	padding-top: 1em;
-}
-
-header h3 {
-}
-
-header h3 a {
-	color: #FFF;
-	text-decoration: none;
-	background-color: #f15a22;
-	border-radius: 50px;
-}
-
-header h3 a:hover {
-	transition: ease-in-out .5s;
-	background-color: #B5244A;
-}
-
-header h4 {
-	padding-left: .75em;
-}
-
-header ul {
-	/*padding-right: .75em;
-	float: right;
-	margin-top: -1em;*/
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	position: relative;
-	float: right;
-}
-
-header ul li {
-	/*display: inline;
-	padding-right: 1em;*/
-	display:inline-block;
-	float: left;
-	margin-right: 1px;
-}
-
-header ul li a {
-	/*color: #FFF;
-	text-decoration: none;*/
-	display:block;
-	min-width: 100px;
-	text-align: center;
-	color: #fff;
-	text-decoration: none;
-	height: 40px;
-}
-
-header ul li a:hover {
-	color: #F02E61;
-}
-
 img {
 }
 
 .dropdown {
-	display: block;
+	display: inline-block;
 	position: relative;
 }
 
@@ -174,10 +181,9 @@ img {
 }
 
 .navbar {
-	background-color: #ffffff;
+	/*background-color: #ffffff;*/
 	font-size: 1.25em;
 	height: 1.25em;
-	letter-spacing: .25em;
 	list-style-type: none;
 	padding: 15px;
 	position: fixed;
@@ -186,6 +192,10 @@ img {
 	width: 100%;
 	z-index: 9999;
 	text-transform: uppercase;
+
+	border-style: solid;
+	border-color: #000000;
+	border-width: 0 0 3px 0;
 }
 
 .navbar a {
@@ -225,5 +235,5 @@ img {
 
 .inner-container {
 	width: 33.3%;
-	display: inline-block
+	display: inline-block;
 }
