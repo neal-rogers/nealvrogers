@@ -92,11 +92,6 @@ header ul {
 	float: right;
 }
 
-header ul li {
-	display:inline-block;
-	float: left;
-}
-
 header ul li a {
 	display:block;
 	min-width: 100px;
@@ -123,7 +118,7 @@ img {
 	height: 1.25em;
 	list-style-type: none;
 	padding: 15px;
-	position: fixed;
+	position: top;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -138,7 +133,7 @@ img {
 
 .navbar li {
 	display: inline-block;
-	padding: 0 32px;
+	padding: 0 1em;
 }
 
 #art {
@@ -243,4 +238,11 @@ footer {
 	width: 100%;
 	text-transform: uppercase;
 	z-index: 9998;
+}
+
+footer ul li a {
+	display: block;
+	text-decoration: none;
+	text-align: center;
+	text-decoration: none;
 }
