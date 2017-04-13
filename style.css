@@ -1,11 +1,11 @@
 @media screen and (max-width: 700px) {
-	header h1 {
+	/*header h1 {
 		padding-left: .25em;
 	}
 
 	header h2, header h3 {
 		padding-left: 1em;
-	}
+	}*/
 }
 
 body {
@@ -20,7 +20,6 @@ h1 {
 	font-size: 4em;
 	font-weight: 500;
 	letter-spacing: .08em;
-	line-height: 1em;
 	padding: 2.5em 0 0 0;
 	text-transform: uppercase;
 }
@@ -30,8 +29,7 @@ h2 {
 	font-size: 2.5em;
 	font-weight: 300;
 	letter-spacing: .07em;
-	line-height: 1em;
-	padding: 2em 0 0 0;
+	padding: 1.5em 0 1.5em 0;
 	text-transform: uppercase;
 }
 
@@ -39,13 +37,11 @@ h3 {
 	color: #FFF;
 	font-size: 2em;
 	font-weight: 500;
-	line-height: 1em;
-	padding: 1em 0 0 0;
+	padding: 1em 0 1em 0;
 	text-transform: uppercase;
 }
 
-h3 a {
-	/*background-color: #f15a22;*/
+/*h3 a {
 	color: #FFF;
 	padding: 1em 1em;
 	text-decoration: none;
@@ -53,15 +49,16 @@ h3 a {
 	border-color: #f15a22;
 	border-style: solid;
 	border-width: 3px;
-}
+}*/
 
 p {
 	color: #0a0a0b;
 	font-size: 1.5em;
-	font-weight: 
+	font-weight: 500;
 	letter-spacing: .05em;
-	line-height: 1em;
-	padding: 1.5em 0 0 0;
+	padding: 1em 0 0 0;
+
+	max-width: 40em;
 }
 
 header {
@@ -72,15 +69,12 @@ header {
 	background-image: url(img/bg-img-1.png);
 }
 
-header h3 a {
-	color: #FFF;
-	text-decoration: none;
-	background-color: #f15a22;
+header h1 {
+	text-align: center;
 }
 
-header h3 a:hover {
-	transition: ease-in-out .5s;
-	background-color: #f15a22;
+header h2 {
+	text-align: center;
 }
 
 header h4 {
@@ -99,7 +93,6 @@ header ul {
 header ul li {
 	display:inline-block;
 	float: left;
-	margin-right: 1px;
 }
 
 header ul li a {
@@ -149,7 +142,7 @@ img {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(img/bg-img-2.png);
+	background: url(img/bg-img-2.png);
 
 	height: 85vh;
 }
@@ -159,23 +152,56 @@ img {
 	background-position: center center;
 	background-size: cover;
 	background: url(img/bg-img-3.png);
+}
+
+#about h1 {
+	padding: 2em 0 0 0;
+}
+
+#about h3 {
+	color: #0a0a0b;
+
+	max-width: 33em;
+}
+
+#design {
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background: url(img/bg-img-1.png);
 
 	height: 85vh;
 }
 
 .outer-container {
 	display: inline-block;
-	height: 85vh;
 	width: 100%;
-
-	padding-top: 15px;
 }
 
 .inner-container {
-	width: 33.3%;
-	/*display: inline-block;*/
+	text-align: center;
 
-	padding-top: 15px;
+	min-width: 300px;
+}
+
+.button {
+	text-decoration: none;
+
+	border-color: #f15a22;
+	border-style: solid;
+	border-width: 3px;
+
+	color: #FFF;
+	font-size: 1em;
+	font-weight: 500;
+	text-transform: uppercase;
+
+	max-width: 33%;
+}
+
+#social-media li {
+	display: inline-block;
+	min-width: 100px;
 }
 
 /*footer {
