@@ -85,10 +85,6 @@ h3 {
 	text-transform: uppercase;
 }
 
-h4 {
-	display: inline-block;
-}
-
 p {
 	color: #0a0a0b;
 	font-size: 1.5em;
@@ -96,16 +92,13 @@ p {
 	letter-spacing: .05em;
 	padding: 1em 0 0 0;
 	text-align: justify;
-
-	overflow: hidden;
-	text-overflow: ellipsis;
 }
 
 header {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background-image: url(img/bg-img-1.png);
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-1.png) no-repeat;
 	height: 95vh;
 	text-align: center;
 }
@@ -121,15 +114,23 @@ header h2 {
 	text-align: center;
 }
 
+header h4 a {
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 1.25em;
+	color: #0a0a0b;
+}
+
 header ul {
-	list-style-type:none;
+	list-style-type: none;
 	margin:0;
 	padding:0;
 }
 
 header ul li a {
-	display:block;
-	min-width: 100px;
+	display: inline-block;
+	min-width: 125px;
 
 	text-decoration: none;
 	height: 40px;
@@ -137,17 +138,18 @@ header ul li a {
 
 header ul li a:hover {
 	border-style: solid;
-	border-color: #f15a22;
+	border-color: #FFF;
 	border-width: 0 0 3px 0;
 }
 
 img {
-	padding: 2em 0 0 0;
+	padding: 0 0 0 0;
 }
 
 .navbar {
+	background-color: #f15a22;
 	border-style: solid;
-	border-color: #0a0a0b;
+	border-color: #f15a22;
 	border-width: 0 0 3px 0;
 	font-size: 1.25em;
 	height: 1.25em;
@@ -159,13 +161,17 @@ img {
 }
 
 .navbar a {
-	color: #0a0a0b;
+	color: #FFF;
 	text-decoration: none;
 }
 
 .navbar li {
 	display: inline-block;
 	padding: 0 1em;
+}
+
+.navbar h4 {
+	display: inline-block;
 }
 
 .outer-container {
@@ -237,20 +243,22 @@ img {
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background: url(img/bg-img-art.jpg) no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-art.jpg) no-repeat;
 	height: 85vh;
 
 	margin: auto;
 	max-width: 100%;
 	text-align: center;
 	padding: 2em 0 0 0;
+
+
 }
 
 #design {
 	background-attachment: fixed;
 	background-position: center center;
 	background-size: cover;
-	background: url(img/bg-img-1.png);
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-1.png) no-repeat;
 	height: 85vh;
 
 	margin: auto;
@@ -287,4 +295,14 @@ footer ul li a {
 	min-width: 100px;
 	text-align: center;
 	text-decoration: none;
+}
+
+.img-home {
+	display: inline-block;
+	padding: 60px;
+
+	position: absolute;
+	left: 5px;
+	margin-top: -55px;
+
 }
