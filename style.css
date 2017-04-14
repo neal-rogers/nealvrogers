@@ -10,7 +10,7 @@
 	header h2 {
 		color: #FFF;
 		font-size: 2em;
-		font-weight: 500;
+		font-weight: 300;
 		letter-spacing: .08em;
 
 		text-transform: uppercase;
@@ -30,8 +30,21 @@
 	}
 
 	header ul li a {
-		border-style: none;
+		font-size: 1em;
+		max-width: 1.9em;
+
 	}
+
+	#art h2 {
+		font-size: 2em;
+		padding: 1em 1em 0 1em;
+	}
+
+	#design h2 {
+		font-size: 2em;
+		padding: 1em 1em 0 1em;
+	}
+
 }
 
 
@@ -50,7 +63,7 @@ h1 {
 	font-size: 4em;
 	font-weight: 500;
 	letter-spacing: .08em;
-	padding: 2.5em 0 0 0;
+	padding: 1em 0 0 0;
 	text-transform: uppercase;
 }
 
@@ -59,7 +72,7 @@ h2 {
 	font-size: 2.5em;
 	font-weight: 300;
 	letter-spacing: .07em;
-	padding: 2em 0 1.5em 0;
+	padding: 2em 0 1em 0;
 	text-transform: uppercase;
 }
 
@@ -99,6 +112,8 @@ header {
 
 header h1 {
 	text-align: center;
+
+	padding: 2em 0 0 0;
 }
 
 header h2 {
@@ -110,7 +125,6 @@ header ul {
 	list-style-type:none;
 	margin:0;
 	padding:0;
-	position: ;
 }
 
 header ul li a {
@@ -186,7 +200,7 @@ img {
 	border-style: solid;
 	border-width: 3px;
 	color: #FFF;
-	padding: .25em 2em .25em 2em;
+	padding: .25em .5em .25em .5em;
 	text-decoration: none;
 }
 
@@ -221,8 +235,9 @@ img {
 #art {
 	background-attachment: fixed;
 	background-position: center center;
+	background-repeat: no-repeat;
 	background-size: cover;
-	background: url(img/bg-img-2.png);
+	background: url(img/bg-img-art.jpg) no-repeat;
 	height: 85vh;
 
 	margin: auto;
