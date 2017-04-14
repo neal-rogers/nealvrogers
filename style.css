@@ -1,4 +1,4 @@
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 768px) {
 	header h1 {
 		font-size: 3em;
 		font-weight: 400;
@@ -18,36 +18,19 @@
 
 	#about p {
 		color: #0a0a0b;
-		font-size: 1.1em;
-		font-weight: 100;
+		font-size: 1em;
 		letter-spacing: .05em;
-		padding: 1em 2em 0 2em;
-
-		text-align: justify;
 		line-height: 1.25em;
+		padding: 1em 2em 0 2em;
+		text-align: justify;
 	}
 
 	#about h1 {
 		font-size: 3em;
-
-		padding: .25em 0 0 0;
-
 	}
 
-	.button {
-		margin: auto;
-	}
-
-	.button h1 a {
-		background: #f15a22;
-		border-color: #f15a22;
-		border-style: solid;
-		border-width: 3px;
-		color: #FFF;
-		padding: .5em 1em 0 1em;
-		text-decoration: none;
-
-		font-size: .75em;
+	header ul li a {
+		border-style: none;
 	}
 }
 
@@ -111,6 +94,7 @@ header {
 	background-size: cover;
 	background-image: url(img/bg-img-1.png);
 	height: 95vh;
+	text-align: center;
 }
 
 header h1 {
@@ -126,14 +110,13 @@ header ul {
 	list-style-type:none;
 	margin:0;
 	padding:0;
-	position: relative;
-	float: right;
+	position: ;
 }
 
 header ul li a {
 	display:block;
 	min-width: 100px;
-	text-align: center;
+
 	text-decoration: none;
 	height: 40px;
 }
@@ -156,7 +139,6 @@ img {
 	height: 1.25em;
 	list-style-type: none;
 	padding: 15px;
-	position: top;
 	top: 0;
 	left: 0;
 	text-transform: uppercase;
@@ -218,11 +200,14 @@ img {
 	max-width: 100%;
 	padding: 2em 0 4em 0;
 	text-align: center;
+
 }
 
 #about p {
 	margin: auto;
-	max-width: 40em;
+	max-width: 30em;
+
+	font-weight: 300;
 }
 
 #about h1 {
@@ -254,7 +239,6 @@ img {
 	height: 85vh;
 
 	margin: auto;
-	max-width: 100%;
 	text-align: center;
 	padding: 2em 0 0 0;
 }
@@ -284,7 +268,6 @@ footer ul li {
 }
 
 footer ul li a {
-	display: block;
 	color: #FFF;
 	min-width: 100px;
 	text-align: center;
