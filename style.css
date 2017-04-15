@@ -180,7 +180,9 @@ img {
 }
 
 .inner-container {
+	background-color: #e8dabe;
 	max-width: 100%
+	height: auto;
 }
 
 .button {
@@ -269,6 +271,7 @@ img {
 }
 
 footer {
+	display: inline-block;
 	background-color: #f15a22;
 	font-size: 1.25em;
 	height: 3em;
@@ -301,28 +304,34 @@ footer ul li a {
 
 }
 
+div.gallery-container {
+	margin: auto;
+	height: 100px;
+
+}
+
 div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
-    border-radius: .08em;
     float: left;
     width: 360px;
+
 }
 
 div.gallery:hover {
-    border: 1px solid #777;
-    border-radius: .08em;
     color: #FFF;
     background-color: #f15a22;
 }
 
 div.gallery img {
     width: 100%;
-    height: 360px;
+    height: 100%;
 }
 
 div.desc {
     padding: 15px;
     text-align: center;
     text-transform: uppercase;
+}
+
+div.cc {
+
 }
