@@ -30,8 +30,8 @@
 	}
 
 	header ul li a {
-		font-size: 1em;
-		max-width: 1.9em;
+		font-size: .75em;
+		max-width: 2.5em;
 
 	}
 
@@ -50,6 +50,15 @@
 
 /*<<<<<<<<<<<<<<<<<<<<<<<<<BODY STARTS HERE>>>>>>>>>>>>>>>>>>>>>>>>>>*/
 
+* {
+	box-sizing: border-box;
+	color: #FFF;
+	list-style: none;
+	margin: 0 auto;
+	max-width: 100%;
+	text-decoration: none;
+	text-transform: uppercase;
+}
 
 body {
 	color: #0a0a0b;
@@ -66,7 +75,6 @@ h1 {
 	font-weight: 500;
 	letter-spacing: .08em;
 	padding: 1em 0 0 0;
-	text-transform: uppercase;
 }
 
 h2 {
@@ -75,7 +83,6 @@ h2 {
 	font-weight: 300;
 	letter-spacing: .07em;
 	padding: 2em 0 1em 0;
-	text-transform: uppercase;
 }
 
 h3 {
@@ -83,8 +90,6 @@ h3 {
 	font-size: 2em;
 	font-weight: 500;
 	padding: 1em 0 1em 0;
-	text-decoration: none;
-	text-transform: uppercase;
 }
 
 p {
@@ -94,6 +99,7 @@ p {
 	letter-spacing: .05em;
 	padding: 1em 0 0 0;
 	text-align: justify;
+	text-transform: none;
 }
 
 header {
@@ -101,7 +107,7 @@ header {
 	background-position: center center;
 	background-size: cover;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-1.png) no-repeat;
-	height: 95vh;
+	height: 80vh;
 	text-align: center;
 }
 
@@ -118,14 +124,11 @@ header h2 {
 
 header h4 a {
 	display: block;
-	text-decoration: none;
-	text-transform: uppercase;
 	font-size: 1.25em;
 	color: #0a0a0b;
 }
 
 header ul {
-	list-style-type: none;
 	margin:0;
 	padding:0;
 }
@@ -142,41 +145,23 @@ header ul li a:hover {
 	border-width: 0 0 3px 0;
 }
 
-img {
-	padding: 0 0 0 0;
-}
-
 .navbar {
 	background-color: #f15a22;
-	border-style: solid;
-	border-color: #f15a22;
-	border-width: 0 0 3px 0;
 	font-size: 1.25em;
-	height: 1.25em;
-	list-style-type: none;
-	padding: 15px;
-	top: 0;
-	left: 0;
-	text-transform: uppercase;
+	height: 60px;
+	padding: 20px;
 }
 
 .navbar a {
-	color: #FFF;
-	text-decoration: none;
+
 }
 
 .navbar li {
-	display: inline-block;
-	padding: 0 1em;
-}
-
-.navbar h4 {
 	display: inline-block;
 }
 
 .outer-container {
 	display: block;
-	margin: auto;
 }
 
 .inner-container {
@@ -186,7 +171,6 @@ img {
 }
 
 .button {
-	margin: auto;
 	min-width: 33%;
 }
 
@@ -197,7 +181,6 @@ img {
 	border-width: 3px;
 	color: #0a0a0b;
 	padding: .25em .5em .25em .5em;
-	text-decoration: none;
 
 }
 
@@ -208,18 +191,12 @@ img {
 	border-width: 3px;
 	color: #FFF;
 	padding: .25em .5em .25em .5em;
-	text-decoration: none;
 }
 
 #about {
-	background-attachment: fixed;
-	background-position: center center;
-	background-size: cover;
-	background: url(img/bg-img-3.png);
-	height: 85vh;
-	margin: auto;
-	max-width: 100%;
-	padding: 2em 0 4em 0;
+	display: block;
+	height: 80vh;
+
 	text-align: center;
 
 }
@@ -239,29 +216,18 @@ img {
 	color: #0a0a0b;
 }
 
-#art {
+#portfolio {
 	background-attachment: fixed;
 	background-position: center center;
-	background-repeat: no-repeat;
 	background-size: cover;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-art.jpg) no-repeat;
 	height: 85vh;
-	margin: auto;
 	text-align: center;
-	padding: 2em 0 0 0;
 
 }
 
-#design {
-	background-attachment: fixed;
-	background-position: center center;
-	background-size: cover;
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-1.png) no-repeat;
-	height: 85vh;
+#social-media {
 
-	margin: auto;
-	text-align: center;
-	padding: 2em 0 0 0;
 }
 
 #social-media li {
@@ -274,18 +240,15 @@ footer {
 	display: inline-block;
 	background-color: #f15a22;
 	font-size: 1.25em;
-	height: 3em;
+	height: 50px;
 	list-style-type: none;
 	position: bottom;
 	width: 100%;
 	text-align: center;
-	text-transform: uppercase;
 }
 
 footer ul li {
 	display: inline-block;
-	text-decoration: none;
-	text-decoration: none;
 	padding: 1em 2em 0 2em;
 }
 
@@ -293,14 +256,13 @@ footer ul li a {
 	color: #FFF;
 	min-width: 100px;
 	text-align: center;
-	text-decoration: none;
 }
 
-.img-home {
-	padding: 60px;
-	position: absolute;
-	left: 5px;
-	margin-top: -55px;
+.logo {
+	padding: 10px 0 0 10px;
+	position: fixed;
+	width: 50px;
+	z-index: 9999;
 
 }
 
@@ -312,7 +274,6 @@ div.gallery-container {
 
 div.gallery {
     float: left;
-    width: 360px;
 
 }
 
@@ -329,9 +290,4 @@ div.gallery img {
 div.desc {
     padding: 15px;
     text-align: center;
-    text-transform: uppercase;
-}
-
-div.cc {
-
 }
