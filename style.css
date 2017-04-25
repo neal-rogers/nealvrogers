@@ -50,6 +50,21 @@
 	header p {
 		max-width: 15em;
 	}
+	
+	#social-media li {
+		display: inline-block;
+		list-style-type: none;
+		min-width: 75px;
+	}
+
+	#contact p {
+		color: #0a0a0b;
+		font-size: 1em;
+		letter-spacing: .05em;
+		line-height: 1.25em;
+		padding: 1em 2em 0 2em;
+		text-align: justify;
+	}
 
 }
 
