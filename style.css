@@ -275,6 +275,7 @@ footer ul li {
 
 .gallery img {
 	padding: .5em;
+	max-width: 100%;
 }
 
 .desc {
@@ -303,3 +304,27 @@ footer ul li {
 #art-design h2 {
 	color: #0a0a0b;
 }
+
+/*.hovertext {
+	position: relative;
+	width: 360px;
+	text-decoration: none !important;
+	text-align: center;
+}
+
+.hovertext::after {
+	content: attr(title);
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	padding: 0.5em 20px;
+	width: 360px;
+	background: rgba(241, 90, 34, 0.8);
+	text-decoration: none !important;
+	color: #FFF;
+	opacity: 0;
+}
+
+.hovertext:hover::after, .hovertext:focus::after {
+	opacity: 1.0;
+}*/
