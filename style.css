@@ -305,6 +305,27 @@ footer ul li {
 	color: #0a0a0b;
 }
 
+#project {
+	display: block;
+	height: 85vh;
+	padding-top: 1em;
+	text-align: center;
+}
+
+#project p {
+	font-weight: 300;
+	margin: auto;
+	max-width: 30em;
+}
+
+#project h2 {
+	color: #0a0a0b;
+}
+
+.img {
+	max-width: 100%;
+}
+
 /*.hovertext {
 	position: relative;
 	width: 360px;
