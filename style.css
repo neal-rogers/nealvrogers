@@ -326,6 +326,29 @@ footer ul li {
 	max-width: 100%;
 }
 
+#portrait {
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-art.jpg) no-repeat;
+
+}
+
+#whalr {
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-art.jpg) no-repeat;
+
+}
+
+#frugalist {
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-art.jpg) no-repeat;
+}
+
 /*.hovertext {
 	position: relative;
 	width: 360px;
