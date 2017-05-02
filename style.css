@@ -18,6 +18,10 @@
 		max-width: 6em;
 	}
 
+	h2 {
+		padding: 1em 1em 0 1em;
+	}
+
 	#portfolio h2 {
 		font-size: 2em;
 	}
@@ -46,10 +50,6 @@
 	.inner-container h2 {
 		font-size: 2em;
 	}
-
-	header p {
-		max-width: 15em;
-	}
 	
 	#social-media li {
 		display: inline-block;
@@ -64,6 +64,13 @@
 		line-height: 1.25em;
 		padding: 1em 2em 0 2em;
 		text-align: justify;
+	}
+
+	#project p {
+		font-weight: 300;
+		padding: 1em 1em 0 1em;
+		margin: auto;
+		max-width: 30em;
 	}
 
 }
@@ -220,7 +227,7 @@ header ul li a:hover {
 }
 
 #portfolio {
-	background-attachment: fixed;
+	background-attachment: ;
 	background-position: center center;
 	background-size: cover;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/bg-img-art.jpg) no-repeat;
@@ -323,8 +330,9 @@ footer ul li {
 	color: #0a0a0b;
 }
 
-.img {
+img {
 	max-width: 100%;
+	padding: 1em .5em 0 .5em;
 }
 
 #portrait {
