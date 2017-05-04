@@ -27,10 +27,6 @@
 		font-size: .75em;
 	}
 
-	.button h1 {
-
-	}
-
 	.inner-container h2 {
 		font-size: 2em;
 	}
@@ -125,7 +121,7 @@ letter-spacing:.05em;
 text-align:justify;
 text-transform:none;
 max-width:30em;
-padding:1em;
+/*padding:1em;*/
 }
 
 header {
@@ -177,22 +173,27 @@ clear:both;
 max-width:100%;
 word-wrap:break-word;
 min-width:33%;
+padding: 1em;
 }
 
 .button {
-padding:6em;
+padding: 1em;
 }
 
-.button h1 a {
+.button h1 {
+	font-size: 100%;
+}
+
+#dark h1 a {
 border-radius:.08em;
-color:#FFF;
-border-color:#FFF;
+color:#f15a22;
+border-color:#f15a22;
 border-style:solid;
 border-width:3px;
 padding:.25em .5em;
 }
 
-.button h1 a:hover {
+#dark h1 a:hover {
 background:#f15a22;
 color:#FFF;
 transition:ease-in-out .5s;
@@ -202,9 +203,28 @@ border-width:3px;
 padding:.25em .5em;
 }
 
+#light h1 a {
+border-radius:.08em;
+color:#FFF;
+border-color:#FFF;
+border-style:solid;
+border-width:3px;
+padding:.25em .5em;
+}
+
+#light h1 a:hover {
+background:#FFF;
+color:#f15a22;
+transition:ease-in-out .5s;
+border-color:#FFF;
+border-style:solid;
+border-width:3px;
+padding:.25em .5em;
+}
+
 #about {
 display:inline-block;
-height:75vh;
+height:85vh;
 text-align:center;
 padding:2em 0 1em;
 }
@@ -212,7 +232,7 @@ padding:2em 0 1em;
 #about p {
 font-weight:300;
 max-width:30em;
-padding:1em 1em 0;
+padding:1em 1em;
 }
 
 #portfolio {
@@ -222,6 +242,12 @@ background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-art.jpg) no-repeat;
 height:85vh;
 text-align:center;
+}
+
+#portfolio h2 {
+	padding-top: 3em;
+	max-width: 20em;
+	margin: auto;
 }
 
 #social-media {
@@ -287,6 +313,7 @@ height:100vh;
 font-weight:300;
 max-width:30em;
 font-size:1.5em;
+padding:1em 1em;
 }
 
 #project {
@@ -300,6 +327,7 @@ text-align:center;
 font-weight:300;
 max-width:30em;
 margin:auto;
+padding:1em 1em;
 }
 
 img {
@@ -336,17 +364,26 @@ background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-art
 #resume {
 background-color:#FFF;
 background-image:none;
-height:100vh;
+height:150vh;
 text-align: left;
+
+
 }
 
 #resume h2,h3{
 	text-align: left;
+	padding: none;
+}
 
+#resume h2{
+	font-weight:700;
+	letter-spacing: .1em;
+	border-color:#0a0a0b;
+	border-style:solid;
+	border-width:0 0 3px;
 }
 
 #resume p {
 font-weight:300;
 font-size:1.5em;
-margin: left;
 }
