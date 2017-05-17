@@ -118,6 +118,7 @@ padding:1em 0;
 
 p {
 color:#0a0a0b;
+/*font-family: 'Open Sans', sans-serif;*/
 font-size:1.5em;
 font-weight:500;
 line-height:1.25em;
@@ -131,7 +132,7 @@ background-attachment:fixed;
 background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-art.jpg) no-repeat;
-height:80vh;
+height:85vh;
 text-align:center;
 }
 
@@ -246,7 +247,7 @@ background-attachment:fixed;
 background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-art.jpg) no-repeat;
-height:85vh;
+height:80vh;
 text-align:center;
 }
 
