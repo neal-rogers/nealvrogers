@@ -243,6 +243,7 @@ padding:.25em .5em;
 display:inline-block;
 min-height:85vh;
 text-align:center;
+padding: 1em;
 }
 
 #about h1 {
@@ -252,7 +253,7 @@ text-align:center;
 
 #about p {
 font-weight:300;
-max-width:30em;
+max-width:40em;
 padding:1em 1em;
 }
 
@@ -334,9 +335,14 @@ height:100vh;
 
 #contact p {
 font-weight:300;
-max-width:30em;
 font-size:1.5em;
 padding:1em 1em;
+margin: auto;
+max-width: 40em;
+}
+
+#contact p a {
+	color:#0a0a0b;
 }
 
 #project {
@@ -369,7 +375,7 @@ text-align:center;
 
 div {
 text-align:center;
-min-width: 100%;
+max-width: 100%;
 }
 
 .navbar li,.gallery {
