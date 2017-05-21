@@ -269,7 +269,15 @@ text-align:center;
 #portfolio h2 {
 max-width: 20em;
 margin: auto;
+}
 
+#portfolio-header {
+background-attachment:fixed;
+background-position:center center;
+background-size:cover;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/.jpg) no-repeat;
+min-height:85vh;
+text-align:center;
 }
 
 #social-media {
@@ -372,6 +380,16 @@ background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-art.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
+}
+
+#portrait-header {
+background-attachment:fixed;
+background-position:center center center;
+background-size:cover;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(projects/art/portrait-project/img/bg-img-portraitproject.jpg) no-repeat;
+min-height:85vh;
+text-align:center;
+
 }
 
 div {
