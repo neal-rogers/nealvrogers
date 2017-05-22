@@ -370,6 +370,16 @@ margin:auto;
 padding:1em 1em;
 }
 
+#paintings-header {
+background-attachment:fixed;
+background-position:center center center;
+background-size:cover;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../../img/bg-img-3.png) no-repeat;
+min-height:85vh;
+text-align:center;
+
+}
+
 img {
 max-width:100%;
 padding:1em .5em;
@@ -388,7 +398,7 @@ text-align:center;
 background-attachment:fixed;
 background-position:center center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(projects/art/portrait-project/img/bg-img-portraitproject.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../../img/bg-img-portraitproject.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 
@@ -454,4 +464,24 @@ text-align: left;
 #homepage {
 background:linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
 height:85vh;
+}
+
+#sketches-header {
+background-attachment:fixed;
+background-position:center center center;
+background-size:cover;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../../img/bg-img-1.png) no-repeat;
+min-height:85vh;
+text-align:center;
+
+}
+
+#lifestudy-header {
+background-attachment:fixed;
+background-position:center center center;
+background-size:cover;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../../../img/bg-img-2.png) no-repeat;
+min-height:85vh;
+text-align:center;
+
 }
