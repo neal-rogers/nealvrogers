@@ -87,6 +87,7 @@ margin:auto;
 
 body {
 color:#0a0a0b;
+display: block;
 font-family:"Source Sans Pro";
 font-weight:400;
 letter-spacing:.05em;
@@ -130,10 +131,11 @@ text-transform:none;
 header {
 background-attachment:fixed;
 background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-1.png) no-repeat;
-height:85vh;
+background-size:100% auto;
+/*background:linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
+height:85vh;*/
 text-align:center;
+position: relative;
 }
 
 .navbar {
@@ -447,4 +449,9 @@ text-align: left;
 #resume p a {
 	color:#0a0a0b;
 	font-weight: 500;
+}
+
+#homepage {
+background:linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
+height:85vh;
 }
