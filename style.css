@@ -318,7 +318,7 @@ z-index:9999;
 padding:10px 0 0 10px;
 }
 
-.gallery:hover {
+.gallery a:hover {
 background-color:#FFF;
 border-color:#f15a22;
 border-style:solid;
