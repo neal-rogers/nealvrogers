@@ -462,13 +462,18 @@ text-align: left;
 }
 
 #homepage {
+background-position:center center;
 background:linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
 height:85vh;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 #sketches-header {
 background-attachment:fixed;
-background-position:center center center;
+background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-2.png) no-repeat;
 min-height:85vh;
@@ -478,7 +483,7 @@ text-align:center;
 
 #lifestudy-header {
 background-attachment:fixed;
-background-position:center center center;
+background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-3.png) no-repeat;
 min-height:85vh;
@@ -488,7 +493,7 @@ text-align:center;
 
 #whalr-header {
 background-attachment:fixed;
-background-position:center center center;
+background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-2.png) no-repeat;
 min-height:85vh;
@@ -498,7 +503,7 @@ text-align:center;
 
 #frugalist-header {
 background-attachment:fixed;
-background-position:center center center;
+background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-3.png) no-repeat;
 min-height:85vh;
