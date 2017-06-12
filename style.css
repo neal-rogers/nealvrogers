@@ -117,6 +117,17 @@ font-weight:500;
 padding:1em 0;
 }
 
+
+ul {
+color:#0a0a0b;
+/*font-family: 'Open Sans', sans-serif;*/
+font-size:1.5em;
+font-weight:500;
+line-height:1.25em;
+letter-spacing:.05em;
+text-transform:none;
+}
+
 p {
 color:#0a0a0b;
 /*font-family: 'Open Sans', sans-serif;*/
@@ -478,6 +489,9 @@ background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-2.png) no-repeat;
 min-height:85vh;
 text-align:center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
 
 }
 
@@ -488,6 +502,9 @@ background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-3.png) no-repeat;
 min-height:85vh;
 text-align:center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
 
 }
 
@@ -498,6 +515,9 @@ background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-2.png) no-repeat;
 min-height:85vh;
 text-align:center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
 
 }
 
@@ -508,5 +528,21 @@ background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-3.png) no-repeat;
 min-height:85vh;
 text-align:center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+
+}
+
+#viaggio-header {
+background-attachment:fixed;
+background-position:center center;
+background-size:cover;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-3.png) no-repeat;
+min-height:85vh;
+text-align:center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
 
 }
