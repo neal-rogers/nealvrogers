@@ -73,6 +73,13 @@
 		font-size: 100%;
 	}
 
+	#emph {
+		font-size: 2.75em;
+	}
+
+	span {
+		font-size: 2.75em;
+	}
 }
 
 
@@ -265,7 +272,7 @@ padding:1em 1em;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-1.png) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-portfolio.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 }
@@ -279,7 +286,7 @@ margin: auto;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-portfolio.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 }
@@ -388,7 +395,7 @@ text-transform: none;
 background-attachment:fixed;
 background-position:center center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-2.png) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-paintings.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 
@@ -477,7 +484,7 @@ text-align: left;
 
 #homepage {
 background-position:center center;
-background:linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-home.jpg) no-repeat;
 height:85vh;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -551,9 +558,41 @@ text-align:center;
 }
 
 #emph {
-font-size:4em;
+font-size:1.5em;
 font-weight:500;
-letter-spacing:.08em;
-padding:3em 0 .5em;
+/*letter-spacing:.08em;*/
 }
+
+.read-more-state {
+  display: none;
+}
+.read-more-target {
+  opacity: 0;
+  max-height: 0;
+  font-size: 0;
+  transition: .25s ease;
+}
+
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  opacity: 1;
+  font-size: inherit;
+  max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'MORE';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'LESS';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: 1.5em;
+  line-height: 2;
+  border: none;
 }
