@@ -248,9 +248,10 @@ padding:.25em .5em;
 
 #about {
 display:inline-block;
-min-height:85vh;
 text-align:center;
 padding: 1em;
+margin-top: 6.25em;
+margin-bottom: 6.25em;
 }
 
 #about h1 {
@@ -269,8 +270,9 @@ background-attachment:fixed;
 background-position:center center;
 background-size:cover;
 background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-portfolio.jpg) no-repeat;
-min-height:85vh;
 text-align:center;
+padding-top: 6.25em;
+padding-bottom: 6.25em;
 }
 
 #portfolio h2 {
