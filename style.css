@@ -1,3 +1,265 @@
+#about {
+  display:inline-block;
+  text-align:center;
+  padding: 1em;
+  margin-top: 6.25em;
+  margin-bottom: 6.25em;
+}
+
+#about h1 {
+  color:#0a0a0b;
+  padding:.25em;
+}
+
+#about p {
+  font-weight:300;
+  max-width:40em;
+  padding:1em 1em;
+}
+
+#contact {
+  background-color:#FFF;
+  background-image:none;
+  min-height: 85vh;
+}
+
+#contact p {
+  font-weight:300;
+  font-size:1.5em;
+  padding:1em 1em;
+  margin:auto;
+  max-width:40em;
+}
+
+#contact h1,#art-design h2,#project h2, #resume h1, #resume h2 {
+  color:#0a0a0b;
+}
+
+#homepage {
+  background-position:center center;
+  background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
+  height:85vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#light h1 a {
+  background: #3FA7D6;
+  border-radius:.08em;
+  color:#FFF;
+  padding:.5em .75em;
+}
+
+#light h1 a:hover {
+  background:#45B6E9;
+}
+
+#portfolio {
+  background-attachment:fixed;
+  background-position:center center;
+  background-size:cover;
+  background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
+  text-align:center;
+  padding-top: 6.25em;
+  padding-bottom: 6.25em;
+}
+
+#portfolio h2 {
+  color: #FFF;
+  max-width: 20em;
+  margin: auto;
+  letter-spacing: 2px;
+  line-height: 1.5em;
+}
+
+#project {
+  display:block;
+  padding-top:1em;
+  text-align:center;
+  min-height: 85vh;
+}
+
+#project h2 {
+  margin-top: 3em;
+}
+
+#project p {
+  font-weight:300;
+  max-width:40em;
+  margin:auto;
+  padding:1em 1em;
+}
+
+#project ul {
+  text-align: left;
+  color:#0a0a0b;
+  font-weight:300;
+  font-size:1.5em;
+  max-width:40em;
+  margin:auto;
+  padding:1em 1em;
+}
+
+#social-media {
+  padding-top:2em;
+}
+
+#social-media li {
+  display:inline-block;
+  list-style-type:none;
+  min-width:100px;
+}
+
+#social-media li a {
+  border-style:none;
+}
+
+#resume {
+background-color:#FFF;
+background-image:none;
+min-height:85vh;
+text-align: left;
+}
+
+#resume h2 {
+  font-weight:700;
+  letter-spacing: .1em;
+  border-color:#0a0a0b;
+  border-style:solid;
+  border-width:0 0 3px;
+  text-align: left;
+}
+
+#resume h3 {
+  padding:.25em 0;
+  text-align: left;
+}
+
+#resume p {
+  font-weight:300;
+  font-size:1.5em;
+  padding:0 0 1em;
+}
+
+#resume p a {
+  color:#0a0a0b;
+  font-weight: 500;
+}
+
+.inner-container {
+  clear:both;
+  max-width:100%;
+  word-wrap:break-word;
+  min-width:33%;
+  padding: 1em;
+  min-height:85vh;
+  padding-bottom: 6.25em;
+}
+
+.navbar {
+  background-color:#f15a22;
+  font-size:1.25em;
+  height:60px;
+  padding:20px;
+  text-align: center;
+}
+
+.navbar ul li a {
+  display:inline-block;
+  height:40px;
+  min-width:8em;
+}
+
+.navbar ul li a:hover {
+  border-color:#FFF;
+  border-style:solid;
+  border-width:0 0 3px;
+}
+
+.outer-container {
+  display:block;
+  text-align:center;
+  max-width:100%;
+  min-height:85vh;
+}
+
+.outer-container h2 {
+  font-size:2.5em;
+  font-weight:700;
+  letter-spacing:2px;
+  padding:1em 0 .5em 0;
+}
+
+.logo {
+position:fixed;
+width:50px;
+z-index:9999;
+padding:10px 0 0 10px;
+}
+
+.gallery {
+  margin-top: 3.125em;
+}
+
+.gallery a:hover {
+background-color:#FFF;
+border-color:#f15a22;
+border-style:solid;
+border-width:0 0 3px;
+}
+
+.gallery img {
+max-width:100%;
+padding:.5em;
+}
+
+.desc {
+color:#0a0a0b;
+font-size:1.5em;
+text-align:center;
+padding:10px;
+max-width: 360px;
+}
+
+.navbar li,.gallery {
+display:inline-block;
+}
+
+.header-inner {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+}
+
+.header-inner h2 {
+  color:#FFF;
+}
+
+.strong {
+  font-weight: 700;
+}
+
+.list {
+  color: #0a0a0b;
+  list-style: circle;
+}
+
+.list li {
+  color: #0a0a0b;
+}
+
+.category {
+  margin-top: 3em;
+}
+
+.blue {
+  color: #3FA7D6;
+  font-weight: 700;
+}
+
 * {
 box-sizing:border-box;
 color:#FFF;
@@ -39,15 +301,6 @@ padding:.5em 0;
 text-align: left;
 }
 
-p {
-color:#0a0a0b;
-font-size:1.5em;
-font-weight:500;
-line-height:1.5em;
-text-align:justify;
-text-transform:none;
-}
-
 header {
 background-attachment:fixed;
 background-position:center center;
@@ -56,123 +309,13 @@ text-align:center;
 position: relative;
 }
 
-.navbar {
-background-color:#f15a22;
-font-size:1.25em;
-height:60px;
-padding:20px;
-text-align: center;
-}
-
-.navbar ul li a {
-display:inline-block;
-height:40px;
-min-width:8em;
-}
-
-.navbar ul li a:hover {
-border-color:#FFF;
-border-style:solid;
-border-width:0 0 3px;
-}
-
-.outer-container {
-display:block;
-text-align:center;
-max-width:100%;
-min-height:85vh;
-}
-
-.outer-container h2 {
-font-size:2.5em;
-font-weight:700;
-letter-spacing:2px;
-padding:1em 0 .5em 0;
-}
-
-.inner-container {
-clear:both;
-max-width:100%;
-word-wrap:break-word;
-min-width:33%;
-padding: 1em;
-min-height:85vh;
-padding-bottom: 6.25em;
-}
-
-.button {
-padding: 3em;
-}
-
-.button h1 {
-  font-size: 100%;
-}
-
-.button a {
-  font-size: 2.5em;
-}
-
-#light h1 a {
-background: #3FA7D6;
-border-radius:.08em;
-color:#FFF;
-border-style:solid;
-padding:.5em .75em;
-}
-
-#light h1 a:hover {
-background:#45B6E9;
-}
-
-#about {
-display:inline-block;
-text-align:center;
-padding: 1em;
-margin-top: 6.25em;
-margin-bottom: 6.25em;
-}
-
-#about h1 {
-  color:#0a0a0b;
-  padding:.25em;
-}
-
-#about p {
-font-weight:300;
-max-width:40em;
-padding:1em 1em;
-}
-
-#portfolio {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
-text-align:center;
-padding-top: 6.25em;
-padding-bottom: 6.25em;
-}
-
-#portfolio h2 {
-color: #FFF;
-max-width: 20em;
-margin: auto;
-letter-spacing: 2px;
-line-height: 1.5em;
-}
-
-#social-media {
-padding-top:2em;
-}
-
-#social-media li {
-display:inline-block;
-list-style-type:none;
-min-width:100px;
-}
-
-#social-media li a {
-border-style:none;
+p {
+color:#0a0a0b;
+font-size:1.5em;
+font-weight:500;
+line-height:1.5em;
+text-align:justify;
+text-transform:none;
 }
 
 footer {
@@ -192,223 +335,17 @@ height:40px;
 min-width:8em;
 }
 
-.logo {
-position:fixed;
-width:50px;
-z-index:9999;
-padding:10px 0 0 10px;
-}
-
-.gallery {
-  margin-top: 3.125em;
-}
-
-.gallery a:hover {
-background-color:#FFF;
-border-color:#f15a22;
-border-style:solid;
-border-width:0 0 3px;
-}
-
-.gallery img {
-max-width:100%;
-padding:.5em;
-}
-
-.desc {
-color:#0a0a0b;
-font-size:1.5em;
-text-align:center;
-padding:10px;
-max-width: 360px;
-}
-
-#contact {
-background-color:#FFF;
-background-image:none;
-min-height: 85vh;
-}
-
-#contact p {
-font-weight:300;
-font-size:1.5em;
-padding:1em 1em;
-margin:auto;
-max-width:40em;
-}
-
-#project {
-display:block;
-padding-top:1em;
-text-align:center;
-min-height: 85vh;
-}
-
-#project h2 {
-  margin-top: 3em;
-}
-
-#project p {
-font-weight:300;
-max-width:40em;
-margin:auto;
-padding:1em 1em;
-}
-
-#project ul {
-text-align: left;
-color:#0a0a0b;
-font-weight:300;
-font-size:1.5em;
-max-width:40em;
-margin:auto;
-padding:1em 1em;
-}
-
 img {
 padding:1em .5em;
-}
-
-#portrait {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-art.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
 }
 
 div {
 text-align:center;
 }
 
-.navbar li,.gallery {
-display:inline-block;
-}
-
-#contact h1,#art-design h2,#project h2, #resume h1, #resume h2 {
-color:#0a0a0b;
-}
-
-#whalr,#frugalist {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-2.png) no-repeat;
-}
-
-#resume {
-background-color:#FFF;
-background-image:none;
-min-height:85vh;
-text-align: left;
-}
-
-#resume h2 {
-  font-weight:700;
-  letter-spacing: .1em;
-  border-color:#0a0a0b;
-  border-style:solid;
-  border-width:0 0 3px;
-  text-align: left;
-}
-
-#resume h3 {
-  padding:.25em 0;
-  text-align: left;
-}
-
-#resume p {
-  font-weight:300;
-  font-size:1.5em;
-  padding:0 0 1em;
-}
-
-#resume p a {
-  color:#0a0a0b;
-  font-weight: 500;
-}
-
-#homepage {
-background-position:center center;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
-height:85vh;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-}
-
-.header-inner {
-position: absolute;
-left: 50%;
-top: 50%;
-transform: translate(-50%, -50%);
-}
-
-.header-inner h2 {
-  color:#FFF;
-}
-
-.strong {
-  font-weight: 700;
-}
-
-.list {
-  color: #0a0a0b;
-  list-style: circle;
-}
-
-.list li {
-  color: #0a0a0b;
-}
-
-.category {
-  margin-top: 3em;
-}
-
-.blue {
-  color: #3FA7D6;
-  font-weight: 700;
-}
-
-.profile-img {
-
-}
+/*****************************@MEDIA QUERIES START HERE********************************/
 
 @media screen and (max-width: 768px) {
-  header h1 {
-    font-size: 1.5em;
-    font-weight: 400;
-    letter-spacing: .08em;
-    padding: 2.5em 0 0 0;
-  }
-
-  header h2 {
-    color: #FFF;
-    font-size: 2em;
-    font-weight: 300;
-    letter-spacing: .08em;
-    padding: 1em 1em 0 1em;
-  }
-
-  header a {
-    font-size: .75em;
-    max-width: 6em;
-  }
-
-  h2 {
-    padding: 1em 1em 0 1em;
-  }
-
-  .inner-container h2 {
-    font-size: 2em;
-  }
-
-  #portfolio h2 {
-    font-size: 2em;
-  }
-
   #about h1 {
     font-size: 2.75em;
   }
@@ -426,10 +363,8 @@ transform: translate(-50%, -50%);
     font-size: 2em;
   }
 
-  #social-media li {
-    display: inline-block;
-    list-style-type: none;
-    min-width: 75px;
+  #portfolio h2 {
+    font-size: 2em;
   }
 
   #project p {
@@ -438,20 +373,41 @@ transform: translate(-50%, -50%);
     max-width: 30em;
   }
 
-  header .button h1 a {
-    font-size: 1.25em;
+  #social-media li {
+    display: inline-block;
+    list-style-type: none;
+    min-width: 75px;
+  }
+  
+  .button a {
+    font-size: 0.75em;
   }
 
-  span {
-    font-size: 1.5em;
+  .inner-container h2 {
+    font-size: 2em;
   }
 
   .navbar ul li a {
     min-width: 5.5em;
   }
 
-  .button a {
-    font-size: 0.75em;
+  h2 {
+    padding: 1em 1em 0 1em;
+  }
+
+  header h1 {
+    font-size: 1.5em;
+    font-weight: 400;
+    letter-spacing: .08em;
+    padding: 2.5em 0 0 0;
+  }
+
+  header h2 {
+    color: #FFF;
+    font-size: 2em;
+    font-weight: 300;
+    letter-spacing: .08em;
+    padding: 1em 1em 0 1em;
   }
 
   img {
