@@ -367,11 +367,9 @@ text-align: left;
 color:#0a0a0b;
 font-weight:300;
 font-size:1.5em;
-list-style: circle;
 max-width:40em;
 margin:auto;
 padding:1em 1em;
-text-transform: none;
 }*/
 
 #paintings-header {
@@ -434,11 +432,6 @@ background-image:none;
 min-height:85vh;
 text-align: left;
 }
-
-/*#resume a {
-	color:#0a0a0b;
-	font-weight: 500;
-}*/
 
 #resume h2 {
 	font-weight:700;
