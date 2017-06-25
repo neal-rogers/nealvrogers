@@ -110,7 +110,8 @@ h2 {
 color:#FFF;
 font-size:2.5em;
 font-weight:300;
-letter-spacing:.07em;
+letter-spacing:2px;
+line-height: 1.5em;
 padding:1em 0;
 }
 
@@ -197,7 +198,7 @@ min-height:85vh;
 }
 
 .button {
-padding: 2em;
+padding: 3em;
 }
 
 .button h1 {
@@ -205,7 +206,7 @@ padding: 2em;
 }
 
 .button a {
-	font-size: 2.75em;
+	font-size: 2.5em;
 }
 
 #dark h1 a {
@@ -228,22 +229,15 @@ padding:.25em .5em;
 }
 
 #light h1 a {
+background: #3FA7D6;
 border-radius:.08em;
 color:#FFF;
-border-color:#FFF;
 border-style:solid;
-border-width:3px;
-padding:.25em .5em;
+padding:.5em .75em;
 }
 
 #light h1 a:hover {
-background:#FFF;
-color:#f15a22;
-transition:ease-in-out .5s;
-border-color:#FFF;
-border-style:solid;
-border-width:3px;
-padding:.25em .5em;
+background:#45B6E9;
 }
 
 #about {
@@ -269,7 +263,7 @@ padding:1em 1em;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-portfolio.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
 text-align:center;
 padding-top: 6.25em;
 padding-bottom: 6.25em;
@@ -278,13 +272,15 @@ padding-bottom: 6.25em;
 #portfolio h2 {
 max-width: 20em;
 margin: auto;
+letter-spacing: 2px;
+line-height: 1.5em;
 }
 
 #portfolio-header {
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-portfolio.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 }
@@ -393,7 +389,7 @@ text-transform: none;
 background-attachment:fixed;
 background-position:center center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-paintings.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-paintings.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 
@@ -408,7 +404,7 @@ padding:1em .5em;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-art.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-art.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 }
@@ -417,7 +413,7 @@ text-align:center;
 background-attachment:fixed;
 background-position:center center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-portraitproject.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portraitproject.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 
@@ -440,7 +436,7 @@ color:#0a0a0b;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-2.png) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-2.png) no-repeat;
 }
 
 #resume {
@@ -482,7 +478,7 @@ text-align: left;
 
 #homepage {
 background-position:center center;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-home.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
 height:85vh;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -494,7 +490,7 @@ background-size: cover;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-sketches.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-sketches.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 -webkit-background-size: cover;
@@ -507,7 +503,7 @@ text-align:center;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-lifestudy.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-lifestudy.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 -webkit-background-size: cover;
@@ -520,7 +516,7 @@ text-align:center;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-whalr.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-whalr.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 -webkit-background-size: cover;
@@ -533,7 +529,7 @@ text-align:center;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-frugalist.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-frugalist.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 -webkit-background-size: cover;
@@ -546,7 +542,7 @@ text-align:center;
 background-attachment:fixed;
 background-position:center center;
 background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/bg-img-viaggio.jpg) no-repeat;
+background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-viaggio.jpg) no-repeat;
 min-height:85vh;
 text-align:center;
 -webkit-background-size: cover;
