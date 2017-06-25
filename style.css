@@ -31,7 +31,7 @@
   padding: 1em 1em;
 }
 
-#contact h1,#art-design h2,#project h2, #resume h1, #resume h2 {
+#contact h1, #art-design h2, #project h2, #resume h1, #resume h2 {
   color: #0a0a0b;
 }
 
@@ -68,17 +68,17 @@
 
 #portfolio h2 {
   color: #FFF;
-  max-width: 20em;
-  margin: auto;
   letter-spacing: 2px;
   line-height: 1.5em;
+  margin: auto;
+  max-width: 20em;
 }
 
 #project {
   display:block;
-  padding-top:1em;
-  text-align:center;
   min-height: 85vh;
+  padding-top: 1em;
+  text-align: center;
 }
 
 #project h2 {
@@ -86,66 +86,66 @@
 }
 
 #project p {
-  font-weight:300;
-  max-width:40em;
-  margin:auto;
-  padding:1em 1em;
+  font-weight: 300;
+  margin: auto;
+  max-width: 40em;
+  padding: 1em 1em;
 }
 
 #project ul {
+  color: #0a0a0b;
+  font-weight: 300;
+  font-size: 1.5em;
+  max-width: 40em;
+  margin: auto;
+  padding: 1em 1em;
   text-align: left;
-  color:#0a0a0b;
-  font-weight:300;
-  font-size:1.5em;
-  max-width:40em;
-  margin:auto;
-  padding:1em 1em;
 }
 
 #resume {
-  background-color:#FFF;
-  background-image:none;
-  min-height:85vh;
+  background-color: #FFF;
+  background-image: none;
+  min-height: 85vh;
   text-align: left;
 }
 
 #resume h2 {
-  font-weight:700;
+  border-color: #0a0a0b;
+  border-style: solid;
+  border-width: 0 0 3px;
+  font-weight: 700;
   letter-spacing: .1em;
-  border-color:#0a0a0b;
-  border-style:solid;
-  border-width:0 0 3px;
   text-align: left;
 }
 
 #resume h3 {
-  padding:.25em 0;
+  padding: .25em 0;
   text-align: left;
 }
 
 #resume p {
-  font-weight:300;
-  font-size:1.5em;
-  padding:0 0 1em;
+  font-weight: 300;
+  font-size: 1.5em;
+  padding: 0 0 1em;
 }
 
 #resume p a {
-  color:#0a0a0b;
+  color: #0a0a0b;
   font-weight: 500;
 }
 
 #social-media {
-  padding-top:2em;
+  padding-top: 2em;
 }
 
 #social-media li {
-  display:inline-block;
-  list-style-type:none;
-  min-width:100px;
+  display: inline-block;
+  list-style-type: none;
+  min-width: 100px;
 }
 
 #social-media li a {
-  border-style:none;
+  border-style: none;
 }
 
 /*****************************CSS CLASSES START HERE********************************/
@@ -160,10 +160,10 @@
 }
 
 .desc {
-  color:#0a0a0b;
-  font-size:1.5em;
-  text-align:center;
-  padding:10px;
+  color: #0a0a0b;
+  font-size: 1.5em;
+  text-align: center;
+  padding: 10px;
   max-width: 360px;
 }
 
@@ -172,35 +172,35 @@
 }
 
 .gallery a:hover {
-  background-color:#FFF;
-  border-color:#f15a22;
-  border-style:solid;
-  border-width:0 0 3px;
+  background-color: #FFF;
+  border-color: #f15a22;
+  border-style: solid;
+  border-width: 0 0 3px;
 }
 
 .gallery img {
-  max-width:100%;
-  padding:.5em;
+  max-width: 100%;
+  padding: .5em;
 }
 
 .header-inner {
-  position: absolute;
   left: 50%;
+  position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
 }
 
 .header-inner h2 {
-  color:#FFF;
+  color: #FFF;
 }
 
 .inner-container {
-  clear:both;
-  max-width:100%;
-  word-wrap:break-word;
-  min-width:33%;
+  clear: both;
+  max-width: 100%;
+  word-wrap: break-word;
+  min-width: 33%;
   padding: 1em;
-  min-height:85vh;
+  min-height: 85vh;
   padding-bottom: 6.25em;
 }
 
@@ -214,48 +214,48 @@
 }
 
 .logo {
-  position:fixed;
-  width:50px;
-  z-index:9999;
-  padding:10px 0 0 10px;
+  padding: 10px 0 0 10px;
+  position: fixed;
+  width: 50px;
+  z-index: 9999;
 }
 
 .navbar {
-  background-color:#f15a22;
-  font-size:1.25em;
-  height:60px;
-  padding:20px;
+  background-color: #f15a22;
+  font-size: 1.25em;
+  height: 60px;
+  padding: 20px;
   text-align: center;
 }
 
 .navbar ul li a {
-  display:inline-block;
-  height:40px;
-  min-width:8em;
+  display: inline-block;
+  height: 40px;
+  min-width: 8em;
 }
 
 .navbar ul li a:hover {
-  border-color:#FFF;
-  border-style:solid;
-  border-width:0 0 3px;
+  border-color: #FFF;
+  border-style: solid;
+  border-width: 0 0 3px;
 }
 
 .navbar li,.gallery {
-  display:inline-block;
+  display: inline-block;
 }
 
 .outer-container {
-  display:block;
-  text-align:center;
-  max-width:100%;
-  min-height:85vh;
+  display: block;
+  text-align: center;
+  max-width: 100%;
+  min-height: 85vh;
 }
 
 .outer-container h2 {
-  font-size:2.5em;
-  font-weight:700;
-  letter-spacing:2px;
-  padding:1em 0 .5em 0;
+  font-size: 2.5em;
+  font-weight: 700;
+  letter-spacing: 2px;
+  padding: 1em 0 .5em 0;
 }
 
 .strong {
@@ -265,35 +265,35 @@
 /*****************************STANDARD CSS SELECTORS START HERE********************************/
 
 * {
-  box-sizing:border-box;
-  color:#FFF;
-  list-style:none;
-  text-decoration:none;
-  text-transform:uppercase;
-  margin:auto;
+  box-sizing: border-box;
+  color: #FFF;
+  list-style: none;
+  margin: auto;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 body {
-  color:#0a0a0b;
-  font-family:"Source Sans Pro";
-  font-weight:400;
+  color: #0a0a0b;
+  font-family: "Source Sans Pro";
+  font-weight: 400;
   line-height: 1.5;
 }
 
 div {
-  text-align:center;
+  text-align: center;
 }
 
 h1 {
-  color:#0a0a0b; 
-  font-size:4em;
-  font-weight:500;
-  letter-spacing:.08em;
-  padding:3em 0 .5em;
+  color: #0a0a0b; 
+  font-size: 4em;
+  font-weight: 500;
+  letter-spacing: .08em;
+  padding: 3em 0 .5em;
 }
 
 h2 {
-  color:#0a0a0b;
+  color: #0a0a0b;
   font-size:2.5em;
   font-weight:300;
   letter-spacing:2px;
@@ -301,50 +301,50 @@ h2 {
 }
 
 h3 {
-  color:#0a0a0b;
-  font-family:"Source Sans Pro";
-  font-size:2em;
-  font-weight:500;
-  padding:.5em 0;
+  color: #0a0a0b;
+  font-family: "Source Sans Pro";
+  font-size: 2em;
+  font-weight: 500;
+  padding: .5em 0;
   text-align: left;
 }
 
 header {
-  background-attachment:fixed;
-  background-position:center center;
-  background-size:100% auto;
-  text-align:center;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100% auto;
   position: relative;
+  text-align: center;
 }
 
 img {
-padding:1em .5em;
+  padding: 1em .5em;
 }
 
 footer {
-  background-color:#f15a22;
-  font-size:1.25em;
-  text-align:center;
+  background-color: #f15a22;
+  font-size: 1.25em;
+  text-align: center;
 }
 
 footer ul li {
-  display:inline-block;
-  padding:10px;
+  display: inline-block;
+  padding: 10px;
 }
 
 footer ul li a {
-  display:inline-block;
-  height:40px;
-  min-width:8em;
+  display: inline-block;
+  height: 40px;
+  min-width: 8em;
 }
 
 p {
-  color:#0a0a0b;
-  font-size:1.5em;
-  font-weight:500;
-  line-height:1.5em;
-  text-align:justify;
-  text-transform:none;
+  color: #0a0a0b;
+  font-size: 1.5em;
+  font-weight: 500;
+  line-height: 1.5em;
+  text-align: justify;
+  text-transform: none;
 }
 
 /*****************************@MEDIA QUERIES START HERE********************************/
@@ -359,7 +359,7 @@ p {
   }
 
   #contact p {
-    color: #0a0a0b;
+    (0,0,0,0.8)
     text-align: justify;
   }
 
