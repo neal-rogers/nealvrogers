@@ -266,7 +266,6 @@ padding:1em 1em;
 }
 
 img {
-width: 100%;
 padding:1em .5em;
 }
 
@@ -278,7 +277,6 @@ background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-art
 min-height:85vh;
 text-align:center;
 }
-
 
 div {
 text-align:center;
@@ -374,6 +372,10 @@ transform: translate(-50%, -50%);
 	font-weight: 700;
 }
 
+.profile-img {
+
+}
+
 @media screen and (max-width: 768px) {
 	header h1 {
 		font-size: 1.5em;
@@ -450,5 +452,9 @@ transform: translate(-50%, -50%);
 
 	.button a {
 		font-size: 0.75em;
+	}
+
+	img {
+		width: 100%;
 	}
 }
