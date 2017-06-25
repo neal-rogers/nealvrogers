@@ -339,10 +339,6 @@ margin:auto;
 max-width:40em;
 }
 
-#contact p a {
-color:#0a0a0b;
-}
-
 #project {
 display:block;
 padding-top:1em;
@@ -554,4 +550,13 @@ transform: translate(-50%, -50%);
 
 .list li {
 	color: #0a0a0b;
+}
+
+.category {
+	margin-top: 3em;
+}
+
+.blue {
+	color: #3FA7D6;
+	font-weight: 700;
 }
