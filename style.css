@@ -367,16 +367,6 @@ margin:auto;
 padding:1em 1em;
 }*/
 
-#paintings-header {
-background-attachment:fixed;
-background-position:center center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-paintings.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
-
-}
-
 img {
 max-width:100%;
 padding:1em .5em;
@@ -391,19 +381,9 @@ min-height:85vh;
 text-align:center;
 }
 
-#portrait-header {
-background-attachment:fixed;
-background-position:center center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portraitproject.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
-
-}
 
 div {
 text-align:center;
-max-width: 100%;
 }
 
 .navbar li,.gallery {
@@ -461,71 +441,6 @@ height:85vh;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-}
-
-#sketches-header {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-sketches.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-
-}
-
-#lifestudy-header {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-lifestudy.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-
-}
-
-#whalr-header {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-whalr.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-
-}
-
-#frugalist-header {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-frugalist.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-
-}
-
-#viaggio-header {
-background-attachment:fixed;
-background-position:center center;
-background-size:cover;
-background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-viaggio.jpg) no-repeat;
-min-height:85vh;
-text-align:center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-
 }
 
 .header-inner {
