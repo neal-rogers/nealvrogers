@@ -10,26 +10,6 @@
   padding: .25em;
 }
 
-#about p {
-  font-weight: 300;
-  padding: 1em 1em;
-  max-width: 40em;
-}
-
-#contact {
-  background-color: #FFF;
-  background-image: none;
-  min-height: 85vh;
-}
-
-#contact p {
-  font-weight: 300;
-  font-size: 1.5em;
-  margin: auto;
-  max-width: 40em;
-  padding: 1em 1em;
-}
-
 #homepage {
   background-position: center center;
   background-size: cover;
@@ -64,7 +44,6 @@
 #portfolio h2 {
   color: #FFF;
   letter-spacing: 2px;
-  line-height: 1.5em;
   margin: auto;
   max-width: 20em;
 }
@@ -78,13 +57,6 @@
 
 #project h2 {
   margin-top: 3em;
-}
-
-#project p {
-  font-weight: 300;
-  margin: auto;
-  max-width: 40em;
-  padding: 1em 1em;
 }
 
 #project ul {
@@ -214,6 +186,7 @@
 .navbar {
   background-color: #f15a22;
   font-size: 1.25em;
+  font-weight: 400;
   height: 60px;
   padding: 20px;
   text-align: center;
@@ -270,7 +243,7 @@
 
 body {
   font-family: "Source Sans Pro";
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.5;
 }
 
@@ -286,10 +259,9 @@ h1 {
 }
 
 h2 {
-  font-size:2.5em;
-  font-weight:300;
-  letter-spacing:2px;
-  line-height: 1.5em;
+  font-size: 2.5em;
+  font-weight: 300;
+  letter-spacing: 2px;
 }
 
 h3 {
@@ -314,12 +286,13 @@ img {
 footer {
   background-color: #f15a22;
   font-size: 1.25em;
+  font-weight: 400;
   text-align: center;
 }
 
 footer ul li {
   display: inline-block;
-  padding: 10px;
+  padding: 15px;
 }
 
 footer ul li a {
@@ -330,8 +303,9 @@ footer ul li a {
 
 p {
   font-size: 1.5em;
-  font-weight: 500;
-  line-height: 1.5em;
+  margin: auto;
+  max-width: 40em;
+  padding: 1em 1em;
   text-align: justify;
   text-transform: none;
 }
@@ -347,15 +321,6 @@ body, h1, h2, h3, p {
     font-size: 2.75em;
   }
 
-  #about p {
-    text-align: justify;
-  }
-
-  #contact p {
-    (0,0,0,0.8)
-    text-align: justify;
-  }
-
   #portfolio h1 {
     font-size: 2em;
   }
@@ -366,8 +331,6 @@ body, h1, h2, h3, p {
 
   #project p {
     font-weight: 300;
-    margin: auto;
-    max-width: 30em;
   }
 
   #social-media li {
@@ -377,7 +340,7 @@ body, h1, h2, h3, p {
   }
   
   .button a {
-    font-size: 0.75em;
+    font-size: 1em;
   }
 
   .inner-container h2 {
