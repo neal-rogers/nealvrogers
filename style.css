@@ -257,6 +257,7 @@ padding-bottom: 6.25em;
 }
 
 #portfolio h2 {
+	color: #FFF;
 max-width: 20em;
 margin: auto;
 letter-spacing: 2px;
@@ -286,6 +287,12 @@ text-align:center;
 footer ul li {
 display:inline-block;
 padding:20px;
+}
+
+footer ul li a {
+display:inline-block;
+height:40px;
+min-width:8em;
 }
 
 .logo {
