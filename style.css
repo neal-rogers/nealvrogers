@@ -1,80 +1,3 @@
-@media screen and (max-width: 768px) {
-	header h1 {
-		font-size: 1.5em;
-		font-weight: 400;
-		letter-spacing: .08em;
-		padding: 2.5em 0 0 0;
-	}
-
-	header h2 {
-		color: #FFF;
-		font-size: 2em;
-		font-weight: 300;
-		letter-spacing: .08em;
-		padding: 1em 1em 0 1em;
-	}
-
-	header a {
-		font-size: .75em;
-		max-width: 6em;
-	}
-
-	h2 {
-		padding: 1em 1em 0 1em;
-	}
-
-	.inner-container h2 {
-		font-size: 2em;
-	}
-
-	#portfolio h2 {
-		font-size: 2em;
-	}
-
-	#about h1 {
-		font-size: 2.75em;
-	}
-
-	#about p {
-		line-height: 1.25em;
-		text-align: justify;
-	}
-
-	#contact p {
-		color: #0a0a0b;
-		line-height: 1.25em;
-		text-align: justify;
-	}
-
-	#portfolio h1 {
-		font-size: 2em;
-	}
-
-	#social-media li {
-		display: inline-block;
-		list-style-type: none;
-		min-width: 75px;
-	}
-
-	#project p {
-		font-weight: 300;
-		margin: auto;
-		max-width: 30em;
-	}
-
-	header .button h1 a {
-		font-size: 1.25em;
-	}
-
-	span {
-		font-size: 1.5em;
-	}
-
-	.navbar ul li a {
-		min-width: 5.5em;
-	}
-}
-
 * {
 box-sizing:border-box;
 color:#FFF;
@@ -231,7 +154,7 @@ padding-bottom: 6.25em;
 }
 
 #portfolio h2 {
-	color: #FFF;
+color: #FFF;
 max-width: 20em;
 margin: auto;
 letter-spacing: 2px;
@@ -340,10 +263,10 @@ font-size:1.5em;
 max-width:40em;
 margin:auto;
 padding:1em 1em;
-}*/
+}
 
 img {
-max-width:100%;
+width: 100%;
 padding:1em .5em;
 }
 
@@ -449,4 +372,83 @@ transform: translate(-50%, -50%);
 .blue {
 	color: #3FA7D6;
 	font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+	header h1 {
+		font-size: 1.5em;
+		font-weight: 400;
+		letter-spacing: .08em;
+		padding: 2.5em 0 0 0;
+	}
+
+	header h2 {
+		color: #FFF;
+		font-size: 2em;
+		font-weight: 300;
+		letter-spacing: .08em;
+		padding: 1em 1em 0 1em;
+	}
+
+	header a {
+		font-size: .75em;
+		max-width: 6em;
+	}
+
+	h2 {
+		padding: 1em 1em 0 1em;
+	}
+
+	.inner-container h2 {
+		font-size: 2em;
+	}
+
+	#portfolio h2 {
+		font-size: 2em;
+	}
+
+	#about h1 {
+		font-size: 2.75em;
+	}
+
+	#about p {
+		text-align: justify;
+	}
+
+	#contact p {
+		color: #0a0a0b;
+		text-align: justify;
+	}
+
+	#portfolio h1 {
+		font-size: 2em;
+	}
+
+	#social-media li {
+		display: inline-block;
+		list-style-type: none;
+		min-width: 75px;
+	}
+
+	#project p {
+		font-weight: 300;
+		margin: auto;
+		max-width: 30em;
+	}
+
+	header .button h1 a {
+		font-size: 1.25em;
+	}
+
+	span {
+		font-size: 1.5em;
+	}
+
+	.navbar ul li a {
+		min-width: 5.5em;
+	}
+
+	.button a {
+		font-size: 0.75em;
+	}
 }
