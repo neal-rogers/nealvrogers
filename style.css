@@ -105,11 +105,11 @@ padding: 3em;
 }
 
 .button h1 {
-	font-size: 100%;
+  font-size: 100%;
 }
 
 .button a {
-	font-size: 2.5em;
+  font-size: 2.5em;
 }
 
 #light h1 a {
@@ -133,8 +133,8 @@ margin-bottom: 6.25em;
 }
 
 #about h1 {
-	color:#0a0a0b;
-	padding:.25em;
+  color:#0a0a0b;
+  padding:.25em;
 }
 
 #about p {
@@ -200,7 +200,7 @@ padding:10px 0 0 10px;
 }
 
 .gallery {
-	margin-top: 3.125em;
+  margin-top: 3.125em;
 }
 
 .gallery a:hover {
@@ -245,7 +245,7 @@ min-height: 85vh;
 }
 
 #project h2 {
-	margin-top: 3em;
+  margin-top: 3em;
 }
 
 #project p {
@@ -305,28 +305,28 @@ text-align: left;
 }
 
 #resume h2 {
-	font-weight:700;
-	letter-spacing: .1em;
-	border-color:#0a0a0b;
-	border-style:solid;
-	border-width:0 0 3px;
-	text-align: left;
+  font-weight:700;
+  letter-spacing: .1em;
+  border-color:#0a0a0b;
+  border-style:solid;
+  border-width:0 0 3px;
+  text-align: left;
 }
 
 #resume h3 {
-	padding:.25em 0;
-	text-align: left;
+  padding:.25em 0;
+  text-align: left;
 }
 
 #resume p {
-	font-weight:300;
-	font-size:1.5em;
-	padding:0 0 1em;
+  font-weight:300;
+  font-size:1.5em;
+  padding:0 0 1em;
 }
 
 #resume p a {
-	color:#0a0a0b;
-	font-weight: 500;
+  color:#0a0a0b;
+  font-weight: 500;
 }
 
 #homepage {
@@ -347,29 +347,29 @@ transform: translate(-50%, -50%);
 }
 
 .header-inner h2 {
-	color:#FFF;
+  color:#FFF;
 }
 
 .strong {
-	font-weight: 700;
+  font-weight: 700;
 }
 
 .list {
-	color: #0a0a0b;
-	list-style: circle;
+  color: #0a0a0b;
+  list-style: circle;
 }
 
 .list li {
-	color: #0a0a0b;
+  color: #0a0a0b;
 }
 
 .category {
-	margin-top: 3em;
+  margin-top: 3em;
 }
 
 .blue {
-	color: #3FA7D6;
-	font-weight: 700;
+  color: #3FA7D6;
+  font-weight: 700;
 }
 
 .profile-img {
@@ -377,84 +377,84 @@ transform: translate(-50%, -50%);
 }
 
 @media screen and (max-width: 768px) {
-	header h1 {
-		font-size: 1.5em;
-		font-weight: 400;
-		letter-spacing: .08em;
-		padding: 2.5em 0 0 0;
-	}
+  header h1 {
+    font-size: 1.5em;
+    font-weight: 400;
+    letter-spacing: .08em;
+    padding: 2.5em 0 0 0;
+  }
 
-	header h2 {
-		color: #FFF;
-		font-size: 2em;
-		font-weight: 300;
-		letter-spacing: .08em;
-		padding: 1em 1em 0 1em;
-	}
+  header h2 {
+    color: #FFF;
+    font-size: 2em;
+    font-weight: 300;
+    letter-spacing: .08em;
+    padding: 1em 1em 0 1em;
+  }
 
-	header a {
-		font-size: .75em;
-		max-width: 6em;
-	}
+  header a {
+    font-size: .75em;
+    max-width: 6em;
+  }
 
-	h2 {
-		padding: 1em 1em 0 1em;
-	}
+  h2 {
+    padding: 1em 1em 0 1em;
+  }
 
-	.inner-container h2 {
-		font-size: 2em;
-	}
+  .inner-container h2 {
+    font-size: 2em;
+  }
 
-	#portfolio h2 {
-		font-size: 2em;
-	}
+  #portfolio h2 {
+    font-size: 2em;
+  }
 
-	#about h1 {
-		font-size: 2.75em;
-	}
+  #about h1 {
+    font-size: 2.75em;
+  }
 
-	#about p {
-		text-align: justify;
-	}
+  #about p {
+    text-align: justify;
+  }
 
-	#contact p {
-		color: #0a0a0b;
-		text-align: justify;
-	}
+  #contact p {
+    color: #0a0a0b;
+    text-align: justify;
+  }
 
-	#portfolio h1 {
-		font-size: 2em;
-	}
+  #portfolio h1 {
+    font-size: 2em;
+  }
 
-	#social-media li {
-		display: inline-block;
-		list-style-type: none;
-		min-width: 75px;
-	}
+  #social-media li {
+    display: inline-block;
+    list-style-type: none;
+    min-width: 75px;
+  }
 
-	#project p {
-		font-weight: 300;
-		margin: auto;
-		max-width: 30em;
-	}
+  #project p {
+    font-weight: 300;
+    margin: auto;
+    max-width: 30em;
+  }
 
-	header .button h1 a {
-		font-size: 1.25em;
-	}
+  header .button h1 a {
+    font-size: 1.25em;
+  }
 
-	span {
-		font-size: 1.5em;
-	}
+  span {
+    font-size: 1.5em;
+  }
 
-	.navbar ul li a {
-		min-width: 5.5em;
-	}
+  .navbar ul li a {
+    min-width: 5.5em;
+  }
 
-	.button a {
-		font-size: 0.75em;
-	}
+  .button a {
+    font-size: 0.75em;
+  }
 
-	img {
-		width: 100%;
-	}
+  img {
+    width: 100%;
+  }
 }
