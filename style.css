@@ -7,7 +7,6 @@
 }
 
 #about h1 {
-  color: #0a0a0b;
   padding: .25em;
 }
 
@@ -29,10 +28,6 @@
   margin: auto;
   max-width: 40em;
   padding: 1em 1em;
-}
-
-#contact h1, #art-design h2, #project h2, #resume h1, #resume h2 {
-  color: #0a0a0b;
 }
 
 #homepage {
@@ -93,7 +88,6 @@
 }
 
 #project ul {
-  color: #0a0a0b;
   font-weight: 300;
   font-size: 1.5em;
   max-width: 40em;
@@ -130,7 +124,6 @@
 }
 
 #resume p a {
-  color: #0a0a0b;
   font-weight: 500;
 }
 
@@ -148,6 +141,10 @@
   border-style: none;
 }
 
+#about h1, #contact h1, #art-design h2, #project h2, #project ul, #resume h1, #resume h2, #resume p a {
+  color: #0a0a0b;
+}
+
 /*****************************CSS CLASSES START HERE********************************/
 
 .blue {
@@ -160,7 +157,6 @@
 }
 
 .desc {
-  color: #0a0a0b;
   font-size: 1.5em;
   text-align: center;
   padding: 10px;
@@ -205,12 +201,7 @@
 }
 
 .list {
-  color: #0a0a0b;
   list-style: circle;
-}
-
-.list li {
-  color: #0a0a0b;
 }
 
 .logo {
@@ -262,6 +253,10 @@
   font-weight: 700;
 }
 
+.desc, .list, .list li {
+  color: #0a0a0b;
+}
+
 /*****************************STANDARD CSS SELECTORS START HERE********************************/
 
 * {
@@ -274,7 +269,6 @@
 }
 
 body {
-  color: #0a0a0b;
   font-family: "Source Sans Pro";
   font-weight: 400;
   line-height: 1.5;
@@ -285,7 +279,6 @@ div {
 }
 
 h1 {
-  color: #0a0a0b; 
   font-size: 4em;
   font-weight: 500;
   letter-spacing: .08em;
@@ -293,7 +286,6 @@ h1 {
 }
 
 h2 {
-  color: #0a0a0b;
   font-size:2.5em;
   font-weight:300;
   letter-spacing:2px;
@@ -301,8 +293,6 @@ h2 {
 }
 
 h3 {
-  color: #0a0a0b;
-  font-family: "Source Sans Pro";
   font-size: 2em;
   font-weight: 500;
   padding: .5em 0;
@@ -339,12 +329,15 @@ footer ul li a {
 }
 
 p {
-  color: #0a0a0b;
   font-size: 1.5em;
   font-weight: 500;
   line-height: 1.5em;
   text-align: justify;
   text-transform: none;
+}
+
+body, h1, h2, h3, p {
+  color: #0a0a0b;
 }
 
 /*****************************@MEDIA QUERIES START HERE********************************/
