@@ -1,69 +1,69 @@
 #about {
   display:inline-block;
-  text-align:center;
   padding: 1em;
   margin-top: 6.25em;
   margin-bottom: 6.25em;
+  text-align: center;
 }
 
 #about h1 {
-  color:#0a0a0b;
-  padding:.25em;
+  color: #0a0a0b;
+  padding: .25em;
 }
 
 #about p {
-  font-weight:300;
-  max-width:40em;
-  padding:1em 1em;
+  font-weight: 300;
+  padding: 1em 1em;
+  max-width: 40em;
 }
 
 #contact {
-  background-color:#FFF;
-  background-image:none;
+  background-color: #FFF;
+  background-image: none;
   min-height: 85vh;
 }
 
 #contact p {
-  font-weight:300;
-  font-size:1.5em;
-  padding:1em 1em;
-  margin:auto;
-  max-width:40em;
+  font-weight: 300;
+  font-size: 1.5em;
+  margin: auto;
+  max-width: 40em;
+  padding: 1em 1em;
 }
 
 #contact h1,#art-design h2,#project h2, #resume h1, #resume h2 {
-  color:#0a0a0b;
+  color: #0a0a0b;
 }
 
 #homepage {
-  background-position:center center;
-  background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
-  height:85vh;
+  background-position: center center;
+  background-size: cover;
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
+  height: 85vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
 }
 
 #light h1 a {
   background: #3FA7D6;
   border-radius:.08em;
-  color:#FFF;
+  color: #FFF;
   padding:.5em .75em;
 }
 
 #light h1 a:hover {
-  background:#45B6E9;
+  background: #45B6E9;
 }
 
 #portfolio {
-  background-attachment:fixed;
-  background-position:center center;
-  background-size:cover;
-  background:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
-  text-align:center;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
   padding-top: 6.25em;
   padding-bottom: 6.25em;
+  text-align: center;
 }
 
 #portfolio h2 {
@@ -102,25 +102,11 @@
   padding:1em 1em;
 }
 
-#social-media {
-  padding-top:2em;
-}
-
-#social-media li {
-  display:inline-block;
-  list-style-type:none;
-  min-width:100px;
-}
-
-#social-media li a {
-  border-style:none;
-}
-
 #resume {
-background-color:#FFF;
-background-image:none;
-min-height:85vh;
-text-align: left;
+  background-color:#FFF;
+  background-image:none;
+  min-height:85vh;
+  text-align: left;
 }
 
 #resume h2 {
@@ -148,6 +134,66 @@ text-align: left;
   font-weight: 500;
 }
 
+#social-media {
+  padding-top:2em;
+}
+
+#social-media li {
+  display:inline-block;
+  list-style-type:none;
+  min-width:100px;
+}
+
+#social-media li a {
+  border-style:none;
+}
+
+/*****************************CSS CLASSES START HERE********************************/
+
+.blue {
+  color: #3FA7D6;
+  font-weight: 700;
+}
+
+.category {
+  margin-top: 3em;
+}
+
+.desc {
+  color:#0a0a0b;
+  font-size:1.5em;
+  text-align:center;
+  padding:10px;
+  max-width: 360px;
+}
+
+.gallery {
+  margin-top: 3.125em;
+}
+
+.gallery a:hover {
+  background-color:#FFF;
+  border-color:#f15a22;
+  border-style:solid;
+  border-width:0 0 3px;
+}
+
+.gallery img {
+  max-width:100%;
+  padding:.5em;
+}
+
+.header-inner {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.header-inner h2 {
+  color:#FFF;
+}
+
 .inner-container {
   clear:both;
   max-width:100%;
@@ -156,6 +202,22 @@ text-align: left;
   padding: 1em;
   min-height:85vh;
   padding-bottom: 6.25em;
+}
+
+.list {
+  color: #0a0a0b;
+  list-style: circle;
+}
+
+.list li {
+  color: #0a0a0b;
+}
+
+.logo {
+  position:fixed;
+  width:50px;
+  z-index:9999;
+  padding:10px 0 0 10px;
 }
 
 .navbar {
@@ -178,6 +240,10 @@ text-align: left;
   border-width:0 0 3px;
 }
 
+.navbar li,.gallery {
+  display:inline-block;
+}
+
 .outer-container {
   display:block;
   text-align:center;
@@ -192,155 +258,93 @@ text-align: left;
   padding:1em 0 .5em 0;
 }
 
-.logo {
-position:fixed;
-width:50px;
-z-index:9999;
-padding:10px 0 0 10px;
-}
-
-.gallery {
-  margin-top: 3.125em;
-}
-
-.gallery a:hover {
-background-color:#FFF;
-border-color:#f15a22;
-border-style:solid;
-border-width:0 0 3px;
-}
-
-.gallery img {
-max-width:100%;
-padding:.5em;
-}
-
-.desc {
-color:#0a0a0b;
-font-size:1.5em;
-text-align:center;
-padding:10px;
-max-width: 360px;
-}
-
-.navbar li,.gallery {
-display:inline-block;
-}
-
-.header-inner {
-position: absolute;
-left: 50%;
-top: 50%;
-transform: translate(-50%, -50%);
-}
-
-.header-inner h2 {
-  color:#FFF;
-}
-
 .strong {
   font-weight: 700;
 }
 
-.list {
-  color: #0a0a0b;
-  list-style: circle;
-}
-
-.list li {
-  color: #0a0a0b;
-}
-
-.category {
-  margin-top: 3em;
-}
-
-.blue {
-  color: #3FA7D6;
-  font-weight: 700;
-}
+/*****************************STANDARD CSS SELECTORS START HERE********************************/
 
 * {
-box-sizing:border-box;
-color:#FFF;
-list-style:none;
-text-decoration:none;
-text-transform:uppercase;
-margin:auto;
+  box-sizing:border-box;
+  color:#FFF;
+  list-style:none;
+  text-decoration:none;
+  text-transform:uppercase;
+  margin:auto;
 }
 
 body {
-color:#0a0a0b;
-font-family:"Source Sans Pro";
-font-weight:400;
-line-height: 1.5;
+  color:#0a0a0b;
+  font-family:"Source Sans Pro";
+  font-weight:400;
+  line-height: 1.5;
+}
+
+div {
+  text-align:center;
 }
 
 h1 {
-color:#0a0a0b; 
-font-size:4em;
-font-weight:500;
-letter-spacing:.08em;
-padding:3em 0 .5em;
+  color:#0a0a0b; 
+  font-size:4em;
+  font-weight:500;
+  letter-spacing:.08em;
+  padding:3em 0 .5em;
 }
 
 h2 {
-color:#0a0a0b;
-font-size:2.5em;
-font-weight:300;
-letter-spacing:2px;
-line-height: 1.5em;
+  color:#0a0a0b;
+  font-size:2.5em;
+  font-weight:300;
+  letter-spacing:2px;
+  line-height: 1.5em;
 }
 
 h3 {
-color:#0a0a0b;
-font-family:"Source Sans Pro";
-font-size:2em;
-font-weight:500;
-padding:.5em 0;
-text-align: left;
+  color:#0a0a0b;
+  font-family:"Source Sans Pro";
+  font-size:2em;
+  font-weight:500;
+  padding:.5em 0;
+  text-align: left;
 }
 
 header {
-background-attachment:fixed;
-background-position:center center;
-background-size:100% auto;
-text-align:center;
-position: relative;
-}
-
-p {
-color:#0a0a0b;
-font-size:1.5em;
-font-weight:500;
-line-height:1.5em;
-text-align:justify;
-text-transform:none;
-}
-
-footer {
-background-color:#f15a22;
-font-size:1.25em;
-text-align:center;
-}
-
-footer ul li {
-display:inline-block;
-padding:10px;
-}
-
-footer ul li a {
-display:inline-block;
-height:40px;
-min-width:8em;
+  background-attachment:fixed;
+  background-position:center center;
+  background-size:100% auto;
+  text-align:center;
+  position: relative;
 }
 
 img {
 padding:1em .5em;
 }
 
-div {
-text-align:center;
+footer {
+  background-color:#f15a22;
+  font-size:1.25em;
+  text-align:center;
+}
+
+footer ul li {
+  display:inline-block;
+  padding:10px;
+}
+
+footer ul li a {
+  display:inline-block;
+  height:40px;
+  min-width:8em;
+}
+
+p {
+  color:#0a0a0b;
+  font-size:1.5em;
+  font-weight:500;
+  line-height:1.5em;
+  text-align:justify;
+  text-transform:none;
 }
 
 /*****************************@MEDIA QUERIES START HERE********************************/
