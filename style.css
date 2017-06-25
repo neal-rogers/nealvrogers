@@ -347,13 +347,20 @@ body, h1, h2, h3, p {
     min-width: 5.5em;
   }
 
+  h1 {
+    padding: 1em 0 0 0;
+  }
+
   h2 {
     padding: 1em 1em 0 1em;
   }
 
+  h3 {
+    font-size: 1em;
+  }
+
   header h1 {
     font-size: 1.5em;
-    font-weight: 400;
     letter-spacing: .08em;
     padding: 2.5em 0 0 0;
   }
@@ -363,7 +370,6 @@ body, h1, h2, h3, p {
     font-size: 2em;
     font-weight: 300;
     letter-spacing: .08em;
-    padding: 1em 1em 0 1em;
   }
 
   img {
