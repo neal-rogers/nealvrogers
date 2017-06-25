@@ -195,7 +195,17 @@ padding: 3em;
 	font-size: 2.5em;
 }
 
+#light h1 a {
+background: #3FA7D6;
+border-radius:.08em;
+color:#FFF;
+border-style:solid;
+padding:.5em .75em;
+}
 
+#light h1 a:hover {
+background:#45B6E9;
+}
 
 #about {
 display:inline-block;
