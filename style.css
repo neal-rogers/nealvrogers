@@ -195,36 +195,7 @@ padding: 3em;
 	font-size: 2.5em;
 }
 
-#dark h1 a {
-border-radius:.08em;
-color:#f15a22;
-border-color:#f15a22;
-border-style:solid;
-border-width:3px;
-padding:.25em .5em;
-}
 
-#dark h1 a:hover {
-background:#f15a22;
-color:#FFF;
-transition:ease-in-out .5s;
-border-color:#f15a22;
-border-style:solid;
-border-width:3px;
-padding:.25em .5em;
-}
-
-#light h1 a {
-background: #3FA7D6;
-border-radius:.08em;
-color:#FFF;
-border-style:solid;
-padding:.5em .75em;
-}
-
-#light h1 a:hover {
-background:#45B6E9;
-}
 
 #about {
 display:inline-block;
@@ -418,7 +389,7 @@ text-align: left;
 }
 
 #resume h3 {
-	padding:.5em 0;
+	padding:.25em 0;
 	text-align: left;
 }
 
