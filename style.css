@@ -49,7 +49,7 @@
 }
 
 #project {
-  display:block;
+  display: block;
   min-height: 85vh;
   padding-top: 1em;
   text-align: center;
@@ -113,7 +113,7 @@
   border-style: none;
 }
 
-#about h1, #contact h1, #art-design h2, #project h2, #project ul, #resume h1, #resume h2, #resume p a {
+#art-design h2, #project h2, #project ul, #resume h1, #resume h2, #resume p a {
   color: #0a0a0b;
 }
 
@@ -327,10 +327,6 @@ body, h1, h2, h3, p {
 
   #portfolio h2 {
     font-size: 2em;
-  }
-
-  #project p {
-    font-weight: 300;
   }
 
   #social-media li {
