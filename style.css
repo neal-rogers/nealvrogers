@@ -158,6 +158,10 @@
   color: #FFF;
 }
 
+.icon {
+  width: auto;
+}
+
 .inner-container {
   clear: both;
   max-width: 100%;
