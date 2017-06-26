@@ -11,9 +11,7 @@
 }
 
 #homepage {
-  background-position: center center;
-  background-size: cover;
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-home.jpg) no-repeat center center fixed;
   height: 85vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -33,10 +31,7 @@
 }
 
 #portfolio {
-  background-attachment: fixed;
-  background-position: center center;
-  background-size: cover;
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/bg-img-portfolio.jpg) no-repeat center center fixed;
   padding-top: 6.25em;
   padding-bottom: 6.25em;
   text-align: center;
