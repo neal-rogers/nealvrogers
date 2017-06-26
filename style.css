@@ -91,6 +91,7 @@
 }
 
 #resume h3 {
+  margin: 0;
   padding: .5em 0;
   text-align: left;
 }
@@ -273,8 +274,9 @@ h2 {
 h3 {
   font-size: 2em;
   font-weight: 500;
+  max-width: 30em;
   padding: .5em 0;
-  text-align: left;
+  margin: auto;
 }
 
 header {
@@ -371,7 +373,8 @@ body, h1, h2, h3, p {
   }
 
   h3 {
-    font-size: 1em;
+    font-size: 1.5em;
+    padding: 1em 1em 0 1em;
   }
 
   header h1 {
