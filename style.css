@@ -318,7 +318,7 @@ p {
   text-transform: none;
 }
 
-body, h1, h2, h3, p {
+body, h1, h2, h3, h3 a, p {
   color: #0a0a0b;
 }
 
