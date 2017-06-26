@@ -76,6 +76,11 @@
   text-align: left;
 }
 
+#resume h1 {
+  font-size: 2.5em;
+  padding: 0;
+}
+
 #resume h2 {
   border-color: #0a0a0b;
   border-style: solid;
@@ -160,6 +165,7 @@
 
 .icon {
   width: auto;
+  margin: 0;
 }
 
 .inner-container {
@@ -333,7 +339,11 @@ body, h1, h2, h3, p {
   #portfolio h2 {
     font-size: 2em;
   }
-
+  
+  #resume h1 {
+    font-size: 2em;
+    padding: 0;
+  }
   #social-media li {
     display: inline-block;
     list-style-type: none;
