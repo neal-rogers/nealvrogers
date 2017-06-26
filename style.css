@@ -86,18 +86,13 @@
 }
 
 #resume h3 {
-  padding: .25em 0;
+  padding: .5em 0;
   text-align: left;
 }
 
 #resume p {
-  font-weight: 300;
-  font-size: 1.5em;
-  padding: 0 0 1em;
-}
-
-#resume p a {
-  font-weight: 500;
+  padding: 0 0 .5em;
+  margin: 0;
 }
 
 #social-media {
@@ -326,7 +321,7 @@ body, h1, h2, h3, p {
     font-size: 1em;
     padding:.5em .75em;
   }
-  
+
   #portfolio h1 {
     font-size: 2em;
   }
