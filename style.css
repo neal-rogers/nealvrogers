@@ -274,6 +274,14 @@ h3 {
   margin: auto;
 }
 
+h4 {
+  font-size: 1.5em;
+  font-weight: 300;
+  max-width: 30em;
+  padding: .5em 0;
+  margin: auto;
+}
+
 header {
   background-attachment: fixed;
   background-position: center center;
@@ -313,7 +321,7 @@ p {
   text-transform: none;
 }
 
-body, h1, h2, h3, h3 a, p {
+body, h1, h2, h3, h3 a, h4, p {
   color: #0a0a0b;
 }
 
@@ -369,6 +377,11 @@ body, h1, h2, h3, h3 a, p {
 
   h3 {
     font-size: 1.5em;
+    padding: 1em 1em 0 1em;
+  }
+
+  h4 {
+    font-size: 1.25em;
     padding: 1em 1em 0 1em;
   }
 
