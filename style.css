@@ -321,6 +321,18 @@ p {
   text-transform: none;
 }
 
+p a {
+  text-transform: none;
+  color: #0a0a0b;
+  font-weight: 500;
+
+}
+
+li h3 {
+  font-size: 1.25em;
+  padding: .25em;
+}
+
 body, h1, h2, h3, h3 a, h4, p {
   color: #0a0a0b;
 }
