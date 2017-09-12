@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name=“viewport” content=“width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="../../../reset.css">
+  <link rel="stylesheet" href="../../../style.css">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600' rel='stylesheet' type='text/css'>
+  <title>Viaggio</title>
+</head>
+  <body>
+    <a href="https://www.nealvrogers.com"><img src="https://www.nealvrogers.com/img/logo-50.png" class="logo"></a>
+      <nav class="navbar">
+        <ul>
+          <li>
+            <a href="https://www.nealvrogers.com/#about">About</a>
+          </li>
+          <li>
+            <a href="https://www.nealvrogers.com/portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="https://www.nealvrogers.com/contact">Contact</a>
+          </li>
+        </ul>
+      </nav>
+      <div class=“outer-container”>
+        <h1>Viaggio</h1>
+        <h2>#yata (Yet Another Travel app)</h2>
+        <div class="inner-container" id="project">
+          <h2>The Problem</h2>
+            <p>
+              A client seeking to capitalize on emerging opportunities within the travel industry anticipated a shift in how people plan and share their travels. In particular, they hoped to gain a foothold within a specific segment of travel, transit and documents. Essentially, they needed an innovative solution to address the when, where, and how travelers reach their destinations.
+            </p>
+            <p>
+               The target demographic, so-called “Adventurers”, consisted of individuals between 20 and 40 years of age, occasional group travellers, single or newly married with no children and limited disposable income.
+            </p>
+          <h2>The Methodology</h2>
+            <img src="img/viaggio-sketch-onboard.jpg">
+              <p>
+                Providing a viable solution required an appreciation for what travelers needed while managing their reservations, etc. My path toward delivering a working prototype would follow a series of user interviews, market research, and extensive usability testing with wireframes and high fidelity mock-ups.
+              </p>
+          <h3>Research</h3>
+          <h4>Competitive Analysis</h4>
+            <p>
+              Making a feasible prototype meant it was necessary to survey my competitors and see how they measured up. From the ten travel related apps I reviewed, only TripIt, Planchat, and Tripcase seemed direct competitors. I then summarized their collective features and failures:
+              <ul class="list">
+                <li>1) Itinerary sharing is common.</li>
+                <li>2) Social media integration is ubiquitous.</li>
+                <li>3) No genuine document management.</li>
+                <li>4) Useful features require purchase.</li>
+              </ul>
+            </p>
+          <h4>User Interviews</h4>
+            <p>
+              Interviewees were asked about a multitude of travel related topics such as their typical routine when planning trips, past experiences, and, of course, how they coordinate with others. Although interviewees’ responses were quite diverse, some shared strong sentiments concerning their expectations of travel apps and services:
+            </p>
+          <div>
+            <svg width="275" height="250">
+              <polygon points="250 0 0 0 0 213.8 45.52 213.8 55.94 224.21 74.62 242.9 74.66 242.85 74.71 242.9 93.39 224.21 103.81 213.8 250 213.8 250 0" fill="#027de9"/>
+              <text class="quote-text-main">
+                <tspan x="2.5%" y="20%">“Being able to</tspan> 
+                <tspan x="2.5%" y="30%"> make my own way,</tspan>
+                <tspan x="2.5%" y="40%"> to explore, is </tspan>
+                <tspan x="2.5%" y="50%"> crucial.”</tspan>
+              </text>
+              <text class="quote-text-sub">
+                <tspan x="2.5%" y="70%">Brandon - Queens, NYC</tspan>
+            </svg>
+            <svg width="275" height="250">
+              <polygon points="250 0 0 0 0 213.8 45.52 213.8 55.94 224.21 74.62 242.9 74.66 242.85 74.71 242.9 93.39 224.21 103.81 213.8 250 213.8 250 0" fill="#027de9"/>
+              <text class="quote-text-main">
+                <tspan x="2.5%" y="20%">“I expect a smooth,</tspan> 
+                <tspan x="2.5%" y="30%">premium experience</tspan>
+                <tspan x="2.5%" y="40%">when I travel.”</tspan>
+              </text>
+              <text class="quote-text-sub">
+                <tspan x="2.5%" y="70%">Jennifer - St. Louis, MO</tspan>
+            </svg>
+            <svg width="275" height="250">
+              <polygon points="250 0 0 0 0 213.8 45.52 213.8 55.94 224.21 74.62 242.9 74.66 242.85 74.71 242.9 93.39 224.21 103.81 213.8 250 213.8 250 0" fill="#027de9"/>
+              <text class="quote-text-main">
+                <tspan x="2.5%" y="20%">“Entering personal </tspan> 
+                <tspan x="2.5%" y="30%"> info, or payment</tspan>
+                <tspan x="2.5%" y="40%"> details can be</tspan>
+                <tspan x="2.5%" y="50%"> tedious.”</tspan>
+              </text>
+              <text class="quote-text-sub">
+                <tspan x="2.5%" y="70%">Elizabeth - Brooklyn, NYC</tspan>
+            </svg>
+          </div>
+            <p>
+              Once all the interviews were concluded I compiled responses and, through affinity mapping, tried to unearth commonalities.
+            </p>
+              <img src="img/viaggio-affinity.jpg">
+                <p>
+                  Amidst diverse thoughts and opinions, a few topics came up time and time again:
+                </p>
+                  <ul class="list">
+                    <li>1) Distrust in apps to function or be accepted by businesses.</li>
+                    <li>2) Frequent use of multiple modes of communication when travelling.</li>
+                    <li>3) Often check-in due to an incentive (e.g., promotion, discount).</li>
+                  </ul>
+          <h4>Persona & Journey Map</h4>
+            <p>
+              Before I began work on user flows and wireframes I needed direction on how to address users’ concerns, thoughts, and frustrations. So, I conjured up a persona – meet Mary…
+            </p>
+              <img src="img/viaggio-persona.jpg" class="persona-img">
+            <p>
+              Since she tends to take the lead on trips, it’s up to Mary to organize stays in hotels, activities, etc., and simultaneously update friends and family. She knows how to use a combination of apps and services to help her manage things but she’d much rather rely on just one.
+            </p>
+            <p>
+              With the aid of a journey map I expanded on Mary’s story and worked to illustrate how users might engage with my app. After a few revisions I had my final version depicting the flow from discovery and trip planning to document sharing and post trip follow-up.
+            </p>
+              <img src="img/viaggio-journey-revision.jpg">
+          <h2>The Solution</h2>
+          <h4>Sitemap</h4>
+            <p>
+              With the initial user research complete, I set upon developing the sitemap. This map, of course, was documentation of the major touchpoints throughout the app. In effect, it was a screen inventory for the wireframes and mock-ups that would come later.
+            </p>
+              <img src="img/viaggio-sitemap.jpg">
+            <p>
+              As depicted in the image above, the app is basically split into two functions: trip management and itinerary building.
+            </p>
+          <h4>User Flow</h4>
+            <p>
+              Next was the user flow. The first draft of which included a profile builder to generate recommendations for activities, dining, etc. I imagined the best place to nudging users towards adding recommended points of interest to their itinerary was while they were managing it.
+            </p>
+              <img src="img/viaggio-userflow-draft.jpg">
+          <h3>Prototyping</h3>
+          <h4>Wireframes: First Iteration</h4>
+            <p>
+              My first wireframes were simple sketches - quick ideas on layout and components within the app. As I put together each sketch I tried to keep in mind that access to and sharing of trip information were top priorities.
+            </p>
+              <img src="img/viaggio-wf-sketch.jpg">
+            <p>
+              I then created several iterations of key flow screens and tried present only the most relevant information. The current trip (home) screen in particular went through several revisions as I worked to best structure information.
+            </p>
+              <img src="img/viaggio-wf-homes.jpg">
+          <h3>User Testing</h3>
+          <h4>Usability Testing</h4>
+            <p>
+              Six people were asked to complete a series of tasks using the prototype. As I recorded and compiled each of the participants’ attempts I discovered a few things about their interactions. Many users ran into problems with account registration and basic navigation. Perhaps most troubling was more than half had difficulty navigating the trip itinerary page.
+            </p>
+              <img src="img/viaggio-usability-rnbw.jpg">
+            <p>
+              Using what I learned from the first round of testing, I revised the user flow. At this point I began to doubt the utility of a profile builder within an app for sharing travel documents. So, my final user flow emphasized the trip building and social functions at the core of the app’s allure – sharing trips with those who matter most.
+            </p>
+              <img src="img/viaggio-userflow.jpg">
+          <h4>Mock Ups</h4>
+            <p>
+              When it came time to create mock ups for the app, which I dubbed Viaggio (Italian for travel or journey), I knew I had to maintain a minimalist aesthetic that didn’t overload trip information. I wanted Viaggio to focuse on its main purpose demonstrated during onboarding...
+            </p>
+              <img src="img/viaggio-onboard.jpg">
+            <p>
+              Furthermore, I had to the address a major problem revealed during wireframe testing: itinerary navigation and the first element I trimmed from this section was the trip detail drawer. Initially, I thought the use of expanding drawers to reveal trip information was an easy way to implement progressive disclosure (an aspect of user control) and reduce unnecessary clutter.
+            </p>
+              <img src="img/viaggio-mockups-home.jpg">
+            <p>
+              Clearly, these drawers didn't make browsing the itinerary any easier and I eventually abandoned the concept in favor of concise information coupled with clear calls to action:
+            </p>
+              <img src="img/viaggio-mockups-home-detail.jpg">
+            <p>
+              Akin to my competitors, I also added a timeline element to subtly hint at off-screen content and visually bind each leg to the trip.
+            </p>
+            <p>
+              I also had to fix the account linking problem. At first, I assumed a simple list and some instructional text would suffice to explain to users they can do things like import contacts or reservations. However, given the confusion users expressed I thought perhaps for the next version grouping the different types of accounts available might help. 
+            </p>
+              <img src="img/viaggio-mockups-link.jpg">
+            <p>
+              As I continued rework, I tried to trade off my more complicated designs for ones that fit within a flat design aesthetic.
+            </p>
+              <img src="img/viaggio-mockups-login.jpg">
+          <h4>More Usability Testing</h4>
+            <p>
+              Once again I rounded up a few volunteers to act as users and test my prototype. Although the tested version was limited to a few key flows users generally responded positively and successfully completed tasks.
+            </p>
+            <p>
+              Some comments, however, did note areas to improve. For instance, several indicated they had trouble distinguishing buttons from static design elements. Others were curious about the document sharing capability and had expected to see things like boarding passes or reservation screens.
+            </p>
+              <img src="img/viaggio-mockups-docs.jpg">
+            <p>
+              My subsequent designs not only expanded to show Viaggio’s document sharing features but also indicate screen state information. Through the conjunction of simple visual cues and direct language I’d hoped to ease confusion and provide instant visual feedback to the user throughout each step.
+            </p>
+              <img src="img/viaggio-mockups-feedback.jpg">
+          <h4>Next Steps</h4>
+          <p>
+            A/B testing of itinerary summary, trip detail screens, contact profiles, and menu.
+          </p>
+          <p>
+            Please feel free to take the Viaggio prototype for a test run <a href="https://invis.io/F7C9QT4AX" target="_blank" >at InVision</a>.
+          </p>
+        </div>
+      </div>
+    <footer>
+      <ul>
+        <li>
+          <a href="https://www.nealvrogers.com/contact">Contact</a>
+        </li>
+      </ul>
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-49031623-1', 'auto');
+          ga('send', 'pageview');
+        </script>
+    </footer>
+  </body>
+</html>
