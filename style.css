@@ -126,21 +126,15 @@
 }
 
 .desc {
+  color: #0a0a0b;
   font-size: 1.5em;
-  text-align: center;
+  font-weight: 500;
   padding: 10px;
   max-width: 360px;
 }
 
 .gallery {
   margin-top: 3.125em;
-}
-
-.gallery a:hover {
-  background-color: #FFF;
-  border-color: #f15a22;
-  border-style: solid;
-  border-width: 0 0 3px;
 }
 
 .gallery img {
@@ -262,7 +256,7 @@
   font-weight: 700;
 }
 
-.desc, .list, .list li {
+.list, .list li {
   color: #0a0a0b;
   font-weight: 500;
   text-align: justify;
@@ -328,6 +322,8 @@ header {
 
 img {
   padding: 1em .5em;
+  display: block;
+  margin: auto;
 }
 
 footer {
