@@ -160,12 +160,13 @@
 
 .inner-container {
   clear: both;
-  max-width: 100%;
+  max-width: 45em;
   word-wrap: break-word;
   min-width: 33%;
   padding: 1em;
   min-height: 85vh;
   padding-bottom: 6.25em;
+  margin: 0 auto;
 }
 
 .list {
@@ -262,6 +263,50 @@
   text-align: justify;
 }
 
+/**** Dustin CSS ****/
+
+#project h4 {
+  text-align: left;
+  margin-top: 1em;
+  font-weight: 700;
+}
+
+#project h2 {
+  font-weight: 700;
+  max-width: 40em;
+  text-align: left;
+  letter-spacing: 0px;
+
+}
+
+#project p {
+  font-size: 1.2em;
+}
+
+.list li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  padding-right: 1em;
+  text-transform: lowercase;
+}
+
+#project ul {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2em;
+}
+
+#project h3 {
+  font-weight: 700;
+  text-align: left;
+  color: #f15a22;
+  margin-top: 2em;
+}
+
+#project h4 {
+  text-transform: lowercase;
+}
 /*****************************STANDARD CSS SELECTORS START HERE********************************/
 
 * {
@@ -347,8 +392,8 @@ footer ul li a {
 p {
   font-size: 1.5em;
   margin: auto;
-  max-width: 40em;
   padding: 1em 1em;
+  padding-left: 0;
   text-align: justify;
   text-transform: none;
 }
@@ -368,6 +413,8 @@ li h3 {
 body, h1, h2, h3, h3 a, h4, p {
   color: #0a0a0b;
 }
+
+
 
 /*****************************@MEDIA QUERIES START HERE********************************/
 
