@@ -1,45 +1,76 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, intial-scale=1">
-	<link rel="stylesheet" href="reset.css">
-	<link rel="stylesheet" href="style.css">
-	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300,400italic' rel='stylesheet' type='text/css'>
-	<title>Neal's Bullshit Site</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name=“viewport” content=“width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="style.css">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,700|Open+Sans:300,400,400i,700' rel='stylesheet' type='text/css'>
+  <title>Neal Rogers | UX Designer & Illustrator</title>
 </head>
+  <body>
+    <a href="https://www.nealvrogers.com"><img src="https://www.nealvrogers.com/img/logo-50.png" class="logo"></a>
+      <nav class="navbar">
+        <ul>
+          <li>
+            <a href="https://www.nealvrogers.com/#about">About</a>
+          </li>
+          <li>
+            <a href="https://www.nealvrogers.com/portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="https://www.nealvrogers.com/contact">Contact</a>
+          </li>
+        </ul>
+      </nav>
+      <header id="homepage">
+        <div class="header-inner">
+          <h2>Hi! I’m Neal, a Brooklyn-based <br><span class="strong">UX Designer</span> currently writing tons of <span class="strong">code</span> and <span class="strong">illustrating!</span></h2>
+          <div class="button" id="light">
+            <h1>
+              <a href="https://www.nealvrogers.com/portfolio">Explore my Work</a>
+            </h1>
+          </div>
+        </div>  
+      </header>
+        <div class=“outer-container”>
+          <div id="about">
+            <h1>About Me.</h1>
+            <img id="about-img" src="img/logo-200.png">
+            <p>
+            Some might call me a reserved but charismatic individual with a penchant for sarcasm and dark humor. Others might choose more colorful and unflattering expletives to describe my character. I'd like to think the real me is somewhere in the middle.
+            <br><br>
+            For about a decade I worked in the information technology field, both in the public and private sectors, including a brief attempt at running my own computer repair operation. But in time I realized I'd denied myself a potentially far more satisfying career in art and design.
+            <br><br>
+            As I start a new journey and reboot <a href="https://www.nealvrogers.com/resume" class="blue">my career</a>, I hope the City That Never Sleeps will continue to inspire me, to urge me to create, and guilt me into pursuing what I truly love. 
+            <br><br>
+            TLDR; I’m an artist from The Lou trying to make it in the Big Apple.
+            </p>
+          </div>
+          <div id="portfolio">
+            <h2>Take a look at my creative process in design, art, and illustration.</h2>
+              <div class="button" id="light">
+                <h1><a href="https://www.nealvrogers.com/portfolio">Explore my Work</a></h1>
+              </div>
+          </div>
+        </div>
+    <footer>
+      <ul>
+        <li>
+          <a href="https://www.nealvrogers.com/contact">Contact</a>
+        </li>
+      </ul>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49031623-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<body>
-	<header>
-		<h4>Neal Rogers</h4>
-		<nav>
-			<ul>
-				<LI>
-					<a href="#">About</a>
-				</LI>
-				<LI>
-					<a href="##">Blog</a>
-				</LI>
-				<LI>
-					<a href="###">Pics</a>
-				</LI>
-			</ul>
-		</nav>
-		<h1>Portfolio</h1>
-		<h2>Hello. We are a multi-disciplinary team working together to craft awesome websites, realise brand identities, design for print and capture visual imagery through photography. Take a look at some of our work below.</h2>
-		<h3><a href="#portfolio">Read More</a></h3>
-	</header>
+  gtag('config', 'UA-49031623-1');
+</script>
 
-	<div class="portfolio1">
-		<div class="portfolio-main">
-			<div class="image">
-				<img src="portfolio1.jpg">
-			</div>
-			<div class="image-description">
-				<h1>Chesterfield Parks & Recreation</h1>
-				<p>This project was a huge pain in the ass. Shoud have been full-color but was printed in black and white. Parks didn't plan on printing in vast quantities.</p>
-			</div>
-		</div>
-	</div>
-</body>
+    </footer>
+  </body>
 </html>

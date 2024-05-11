@@ -1,0 +1,699 @@
+May 11 12:48:43 10.71.60.0 u71600544 Connection from 10.71.60.0 port 20584 on 74.208.58.22 port 22 rdomain ""
+May 11 12:48:43 10.71.60.0 u71600544 Accepted password for u71600544 from 10.71.60.0 port 20584 ssh2
+May 11 12:48:44 10.71.60.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.60.0 port 20584 id 0
+May 11 12:48:44 10.71.60.0 u71600544 session opened for local user u71600544 from [10.71.60.0]
+May 11 12:49:24 10.71.61.0 u71600544 Connection from 10.71.61.0 port 44868 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.61.0 u71600544 Accepted password for u71600544 from 10.71.61.0 port 44868 ssh2
+May 11 12:49:24 10.71.60.0 u71600544 Connection from 10.71.60.0 port 53726 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.60.0 u71600544 Accepted password for u71600544 from 10.71.60.0 port 53726 ssh2
+May 11 12:49:24 10.71.60.0 u71600544 Connection from 10.71.60.0 port 20646 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.60.0 u71600544 Accepted password for u71600544 from 10.71.60.0 port 20646 ssh2
+May 11 12:49:24 10.71.61.0 u71600544 Connection from 10.71.61.0 port 44872 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.61.0 u71600544 Accepted password for u71600544 from 10.71.61.0 port 44872 ssh2
+May 11 12:49:24 10.71.60.0 u71600544 Connection from 10.71.60.0 port 20650 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.60.0 u71600544 Accepted password for u71600544 from 10.71.60.0 port 20650 ssh2
+May 11 12:49:24 10.71.60.0 u71600544 Connection from 10.71.60.0 port 20648 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.60.0 u71600544 Accepted password for u71600544 from 10.71.60.0 port 20648 ssh2
+May 11 12:49:24 10.71.61.0 u71600544 Connection from 10.71.61.0 port 44876 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.61.0 u71600544 Accepted password for u71600544 from 10.71.61.0 port 44876 ssh2
+May 11 12:49:24 10.71.61.0 u71600544 Connection from 10.71.61.0 port 44878 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.61.0 u71600544 Accepted password for u71600544 from 10.71.61.0 port 44878 ssh2
+May 11 12:49:24 10.71.61.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.61.0 port 44868 id 0
+May 11 12:49:24 10.71.61.0 u71600544 session opened for local user u71600544 from [10.71.61.0]
+May 11 12:49:24 10.71.60.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.60.0 port 53726 id 0
+May 11 12:49:24 10.71.61.0 u71600544 Connection from 10.71.61.0 port 44870 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:24 10.71.61.0 u71600544 Accepted password for u71600544 from 10.71.61.0 port 44870 ssh2
+May 11 12:49:24 10.71.60.0 u71600544 session opened for local user u71600544 from [10.71.60.0]
+May 11 12:49:24 10.71.60.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.60.0 port 20646 id 0
+May 11 12:49:24 10.71.61.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.61.0 port 44872 id 0
+May 11 12:49:24 10.71.60.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.60.0 port 20650 id 0
+May 11 12:49:24 10.71.60.0 u71600544 session opened for local user u71600544 from [10.71.60.0]
+May 11 12:49:24 10.71.61.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.61.0 port 44878 id 0
+May 11 12:49:24 10.71.61.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.61.0 port 44876 id 0
+May 11 12:49:24 10.71.60.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.60.0 port 20648 id 0
+May 11 12:49:24 10.71.61.0 u71600544 session opened for local user u71600544 from [10.71.61.0]
+May 11 12:49:24 10.71.60.0 u71600544 session opened for local user u71600544 from [10.71.60.0]
+May 11 12:49:24 10.71.61.0 u71600544 session opened for local user u71600544 from [10.71.61.0]
+May 11 12:49:24 10.71.60.0 u71600544 session opened for local user u71600544 from [10.71.60.0]
+May 11 12:49:24 10.71.61.0 u71600544 session opened for local user u71600544 from [10.71.61.0]
+May 11 12:49:24 10.71.61.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.61.0 port 44870 id 0
+May 11 12:49:24 10.71.61.0 u71600544 session opened for local user u71600544 from [10.71.61.0]
+May 11 12:49:24 10.71.61.0 u71600544 open "/reset.css" flags READ mode 0666
+May 11 12:49:25 10.71.60.0 u71600544 open "/style.css" flags READ mode 0666
+May 11 12:49:25 10.71.60.0 u71600544 open "/.htaccess" flags READ mode 0666
+May 11 12:49:25 10.71.61.0 u71600544 open "/index.html" flags READ mode 0666
+May 11 12:49:25 10.71.60.0 u71600544 open "/error500.html" flags READ mode 0666
+May 11 12:49:25 10.71.61.0 u71600544 open "/contact.html" flags READ mode 0666
+May 11 12:49:25 10.71.61.0 u71600544 open "/resume.html" flags READ mode 0666
+May 11 12:49:25 10.71.60.0 u71600544 open "/error404.html" flags READ mode 0666
+May 11 12:49:25 10.71.61.0 u71600544 open "/error403.html" flags READ mode 0666
+May 11 12:49:25 10.71.61.0 u71600544 close "/reset.css" bytes read 1141 written 0
+May 11 12:49:25 10.71.61.0 u71600544 [10.71.61.0|get|1|1141|0|0|0|2f72657365742e637373|]
+May 11 12:49:25 10.71.60.0 u71600544 close "/style.css" bytes read 7002 written 0
+May 11 12:49:25 10.71.60.0 u71600544 [10.71.60.0|get|0|7002|0|0|0|2f7374796c652e637373|]
+May 11 12:49:25 10.71.60.0 u71600544 close "/.htaccess" bytes read 1135 written 0
+May 11 12:49:25 10.71.60.0 u71600544 [10.71.60.0|get|0|1135|0|0|0|2f2e6874616363657373|]
+May 11 12:49:25 10.71.61.0 u71600544 close "/contact.html" bytes read 2457 written 0
+May 11 12:49:25 10.71.61.0 u71600544 [10.71.61.0|get|0|2457|0|0|0|2f636f6e746163742e68746d6c|]
+May 11 12:49:25 10.71.61.0 u71600544 close "/index.html" bytes read 3474 written 0
+May 11 12:49:25 10.71.61.0 u71600544 close "/resume.html" bytes read 4212 written 0
+May 11 12:49:25 10.71.61.0 u71600544 [10.71.61.0|get|0|4212|0|0|0|2f726573756d652e68746d6c|]
+May 11 12:49:25 10.71.61.0 u71600544 [10.71.61.0|get|0|3474|0|0|0|2f696e6465782e68746d6c|]
+May 11 12:49:25 10.71.60.0 u71600544 close "/error404.html" bytes read 1531 written 0
+May 11 12:49:25 10.71.60.0 u71600544 [10.71.60.0|get|0|1531|0|0|0|2f6572726f723430342e68746d6c|]
+May 11 12:49:25 10.71.60.0 u71600544 close "/error500.html" bytes read 1531 written 0
+May 11 12:49:25 10.71.60.0 u71600544 [10.71.60.0|get|0|1531|0|0|0|2f6572726f723530302e68746d6c|]
+May 11 12:49:25 10.71.61.0 u71600544 close "/error403.html" bytes read 1513 written 0
+May 11 12:49:25 10.71.61.0 u71600544 [10.71.61.0|get|0|1513|0|0|0|2f6572726f723430332e68746d6c|]
+May 11 12:49:25 10.71.61.0 u71600544 Connection from 10.71.61.0 port 44882 on 74.208.58.22 port 22 rdomain ""
+May 11 12:49:25 10.71.61.0 u71600544 Accepted password for u71600544 from 10.71.61.0 port 44882 ssh2
+May 11 12:49:25 10.71.61.0 u71600544 Starting session: subsystem 'sftp' for u71600544 from 10.71.61.0 port 44882 id 0
+May 11 12:49:25 10.71.61.0 u71600544 session opened for local user u71600544 from [10.71.61.0]
+May 11 12:49:26 10.71.61.0 u71600544 open "/portfolio/index.html" flags READ mode 0666
+May 11 12:49:26 10.71.60.0 u71600544 open "/portfolio/art/life-study/index.html" flags READ mode 0666
+May 11 12:49:26 10.71.61.0 u71600544 close "/portfolio/index.html" bytes read 4319 written 0
+May 11 12:49:26 10.71.61.0 u71600544 [10.71.61.0|get|0|4319|0|0|0|2f706f7274666f6c696f2f696e6465782e68746d6c|]
+May 11 12:49:26 10.71.60.0 u71600544 close "/portfolio/art/life-study/index.html" bytes read 2233 written 0
+May 11 12:49:26 10.71.60.0 u71600544 [10.71.60.0|get|0|2233|0|0|0|2f706f7274666f6c696f2f6172742f6c6966652d73747564792f696e6465782e68746d6c|]
+May 11 12:49:26 10.71.61.0 u71600544 open "/portfolio/art/life-study/img/self-portrait.jpg" flags READ mode 0666
+May 11 12:49:26 10.71.61.0 u71600544 open "/portfolio/art/life-study/img/life-study-1.jpg" flags READ mode 0666
+May 11 12:49:26 10.71.61.0 u71600544 open "/portfolio/art/life-study/img/male-study-1.jpg" flags READ mode 0666
+May 11 12:49:26 10.71.60.0 u71600544 open "/portfolio/art/life-study/img/back-study-1.jpg" flags READ mode 0666
+May 11 12:49:26 10.71.61.0 u71600544 close "/portfolio/art/life-study/img/male-study-1.jpg" bytes read 30182 written 0
+May 11 12:49:26 10.71.61.0 u71600544 [10.71.61.0|get|0|30182|0|0|0|2f706f7274666f6c696f2f6172742f6c6966652d73747564792f696d672f6d616c652d73747564792d312e6a7067|]
+May 11 12:49:26 10.71.60.0 u71600544 close "/portfolio/art/life-study/img/back-study-1.jpg" bytes read 24643 written 0
+May 11 12:49:26 10.71.60.0 u71600544 [10.71.60.0|get|0|24643|0|0|0|2f706f7274666f6c696f2f6172742f6c6966652d73747564792f696d672f6261636b2d73747564792d312e6a7067|]
+May 11 12:49:26 10.71.61.0 u71600544 close "/portfolio/art/life-study/img/life-study-1.jpg" bytes read 39478 written 0
+May 11 12:49:26 10.71.61.0 u71600544 [10.71.61.0|get|0|39478|0|0|0|2f706f7274666f6c696f2f6172742f6c6966652d73747564792f696d672f6c6966652d73747564792d312e6a7067|]
+May 11 12:49:26 10.71.61.0 u71600544 close "/portfolio/art/life-study/img/self-portrait.jpg" bytes read 40409 written 0
+May 11 12:49:26 10.71.61.0 u71600544 [10.71.61.0|get|0|40409|0|0|0|2f706f7274666f6c696f2f6172742f6c6966652d73747564792f696d672f73656c662d706f7274726169742e6a7067|]
+May 11 12:49:27 10.71.60.0 u71600544 open "/portfolio/art/paintings/index.html" flags READ mode 0666
+May 11 12:49:27 10.71.60.0 u71600544 close "/portfolio/art/paintings/index.html" bytes read 3188 written 0
+May 11 12:49:27 10.71.60.0 u71600544 [10.71.60.0|get|0|3188|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696e6465782e68746d6c|]
+May 11 12:49:27 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/portrait-project.png" flags READ mode 0666
+May 11 12:49:27 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/untitled-painting-1.png" flags READ mode 0666
+May 11 12:49:27 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/stress.png" flags READ mode 0666
+May 11 12:49:27 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/enrichment.png" flags READ mode 0666
+May 11 12:49:27 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/dustin-dong.jpg" flags READ mode 0666
+May 11 12:49:27 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/ian-burrows.jpg" flags READ mode 0666
+May 11 12:49:27 10.71.60.0 u71600544 open "/portfolio/art/paintings/img/kevin-rogers.jpg" flags READ mode 0666
+May 11 12:49:27 10.71.60.0 u71600544 open "/portfolio/art/paintings/img/neal-rogers.jpg" flags READ mode 0666
+May 11 12:49:27 10.71.60.0 u71600544 open "/portfolio/art/paintings/img/elizabeth-lonigro.jpg" flags READ mode 0666
+May 11 12:49:27 10.71.60.0 u71600544 open "/portfolio/art/paintings/img/brandon-mosley.jpg" flags READ mode 0666
+May 11 12:49:27 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/ian-burrows.jpg" bytes read 25515 written 0
+May 11 12:49:27 10.71.61.0 u71600544 [10.71.61.0|get|0|25515|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f69616e2d627572726f77732e6a7067|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/dustin-dong.jpg" bytes read 32640 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|1|32640|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f64757374696e2d646f6e672e6a7067|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/portrait-project.png" bytes read 73363 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|1|73363|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f706f7274726169742d70726f6a6563742e706e67|]
+May 11 12:49:28 10.71.60.0 u71600544 close "/portfolio/art/paintings/img/neal-rogers.jpg" bytes read 48840 written 0
+May 11 12:49:28 10.71.60.0 u71600544 [10.71.60.0|get|1|48840|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f6e65616c2d726f676572732e6a7067|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/untitled-painting-1.png" bytes read 97064 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|1|97064|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f756e7469746c65642d7061696e74696e672d312e706e67|]
+May 11 12:49:28 10.71.60.0 u71600544 close "/portfolio/art/paintings/img/elizabeth-lonigro.jpg" bytes read 38530 written 0
+May 11 12:49:28 10.71.60.0 u71600544 [10.71.60.0|get|1|38530|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f656c697a61626574682d6c6f6e6967726f2e6a7067|]
+May 11 12:49:28 10.71.60.0 u71600544 close "/portfolio/art/paintings/img/kevin-rogers.jpg" bytes read 47129 written 0
+May 11 12:49:28 10.71.60.0 u71600544 [10.71.60.0|get|1|47129|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f6b6576696e2d726f676572732e6a7067|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/stress.png" bytes read 125211 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|1|125211|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f7374726573732e706e67|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/enrichment.png" bytes read 101649 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|1|101649|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f656e726963686d656e742e706e67|]
+May 11 12:49:28 10.71.60.0 u71600544 close "/portfolio/art/paintings/img/brandon-mosley.jpg" bytes read 33927 written 0
+May 11 12:49:28 10.71.60.0 u71600544 [10.71.60.0|get|1|33927|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f6272616e646f6e2d6d6f736c65792e6a7067|]
+May 11 12:49:28 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/boned-2.png" flags READ mode 0666
+May 11 12:49:28 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/boned-1.png" flags READ mode 0666
+May 11 12:49:28 10.71.61.0 u71600544 open "/portfolio/art/paintings/img/anna-miller.jpg" flags READ mode 0666
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/anna-miller.jpg" bytes read 32326 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|0|32326|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f616e6e612d6d696c6c65722e6a7067|]
+May 11 12:49:28 10.71.61.0 u71600544 open "/portfolio/art/portrait-project/index.html" flags READ mode 0666
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/boned-1.png" bytes read 96745 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|0|96745|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f626f6e65642d312e706e67|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/paintings/img/boned-2.png" bytes read 102149 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|0|102149|0|0|0|2f706f7274666f6c696f2f6172742f7061696e74696e67732f696d672f626f6e65642d322e706e67|]
+May 11 12:49:28 10.71.61.0 u71600544 close "/portfolio/art/portrait-project/index.html" bytes read 2894 written 0
+May 11 12:49:28 10.71.61.0 u71600544 [10.71.61.0|get|0|2894|0|0|0|2f706f7274666f6c696f2f6172742f706f7274726169742d70726f6a6563742f696e6465782e68746d6c|]
+May 11 12:49:29 10.71.60.0 u71600544 open "/portfolio/art/print/index.html" flags READ mode 0666
+May 11 12:49:29 10.71.60.0 u71600544 close "/portfolio/art/print/index.html" bytes read 2272 written 0
+May 11 12:49:29 10.71.60.0 u71600544 [10.71.60.0|get|0|2272|0|0|0|2f706f7274666f6c696f2f6172742f7072696e742f696e6465782e68746d6c|]
+May 11 12:49:30 10.71.61.0 u71600544 open "/portfolio/art/print/img/heart-silkscreen.jpg" flags READ mode 0666
+May 11 12:49:30 10.71.61.0 u71600544 open "/portfolio/art/print/img/faces-intaglio.jpg" flags READ mode 0666
+May 11 12:49:30 10.71.61.0 u71600544 close "/portfolio/art/print/img/heart-silkscreen.jpg" bytes read 31602 written 0
+May 11 12:49:30 10.71.61.0 u71600544 close "/portfolio/art/print/img/faces-intaglio.jpg" bytes read 32207 written 0
+May 11 12:49:30 10.71.61.0 u71600544 [10.71.61.0|get|0|31602|0|0|0|2f706f7274666f6c696f2f6172742f7072696e742f696d672f68656172742d73696c6b73637265656e2e6a7067|]
+May 11 12:49:30 10.71.61.0 u71600544 [10.71.61.0|get|0|32207|0|0|0|2f706f7274666f6c696f2f6172742f7072696e742f696d672f66616365732d696e7461676c696f2e6a7067|]
+May 11 12:49:30 10.71.60.0 u71600544 open "/portfolio/art/sketches/index.html" flags READ mode 0666
+May 11 12:49:30 10.71.60.0 u71600544 close "/portfolio/art/sketches/index.html" bytes read 3282 written 0
+May 11 12:49:30 10.71.60.0 u71600544 [10.71.60.0|get|0|3282|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696e6465782e68746d6c|]
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/ted-cruz.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/sabrina-unseth.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/motorcycle-panel-ink-1.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/motorcycle-panel-ink-2.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/ruth-baderginsberg.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/patrick-butler.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/motorcycle-panel-ink-3.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/john-lithgow.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/lyndon-johnson-1.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/hillary-sketch.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/sabrina-unseth.jpg" bytes read 28348 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|28348|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f73616272696e612d756e736574682e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/ted-cruz.jpg" bytes read 44513 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|44513|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f7465642d6372757a2e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/ruth-baderginsberg.jpg" bytes read 43039 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|43039|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f727574682d626164657267696e73626572672e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/motorcycle-panel-ink-2.jpg" bytes read 78408 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|78408|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6d6f746f726379636c652d70616e656c2d696e6b2d322e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/john-lithgow.jpg" bytes read 25286 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|25286|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6a6f686e2d6c697468676f772e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/motorcycle-panel-ink-1.jpg" bytes read 84210 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|84210|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6d6f746f726379636c652d70616e656c2d696e6b2d312e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/patrick-butler.jpg" bytes read 31684 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|31684|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f7061747269636b2d6275746c65722e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/motorcycle-panel-ink-3.jpg" bytes read 56598 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|56598|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6d6f746f726379636c652d70616e656c2d696e6b2d332e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/lyndon-johnson-1.jpg" bytes read 47281 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|47281|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6c796e646f6e2d6a6f686e736f6e2d312e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/hillary-sketch.jpg" bytes read 49224 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|49224|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f68696c6c6172792d736b657463682e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/guitarist.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/fred-hampton-2.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/fred-hampton-1.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/driver.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/elizabeth-lonigro.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 open "/portfolio/art/sketches/img/donald-trump.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/christina-lonigro.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/boy-sketch.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/bernie-sanders.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.60.0 u71600544 open "/portfolio/art/sketches/img/barack-obama.jpg" flags READ mode 0666
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/guitarist.jpg" bytes read 46372 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|46372|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6775697461726973742e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/fred-hampton-2.jpg" bytes read 37787 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|37787|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f667265642d68616d70746f6e2d322e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/fred-hampton-1.jpg" bytes read 50041 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|50041|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f667265642d68616d70746f6e2d312e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/elizabeth-lonigro.jpg" bytes read 33212 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|33212|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f656c697a61626574682d6c6f6e6967726f2e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/donald-trump.jpg" bytes read 39528 written 0
+May 11 12:49:31 10.71.61.0 u71600544 close "/portfolio/art/sketches/img/driver.jpg" bytes read 48409 written 0
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|39528|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f646f6e616c642d7472756d702e6a7067|]
+May 11 12:49:31 10.71.61.0 u71600544 [10.71.61.0|get|0|48409|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6472697665722e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/christina-lonigro.jpg" bytes read 28998 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|28998|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f636872697374696e612d6c6f6e6967726f2e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/boy-sketch.jpg" bytes read 38137 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|38137|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f626f792d736b657463682e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/bernie-sanders.jpg" bytes read 24541 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|24541|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f6265726e69652d73616e646572732e6a7067|]
+May 11 12:49:31 10.71.60.0 u71600544 close "/portfolio/art/sketches/img/barack-obama.jpg" bytes read 21055 written 0
+May 11 12:49:31 10.71.60.0 u71600544 [10.71.60.0|get|0|21055|0|0|0|2f706f7274666f6c696f2f6172742f736b6574636865732f696d672f62617261636b2d6f62616d612e6a7067|]
+May 11 12:49:32 10.71.60.0 u71600544 open "/portfolio/design/acs/index.html" flags READ mode 0666
+May 11 12:49:32 10.71.60.0 u71600544 close "/portfolio/design/acs/index.html" bytes read 2955 written 0
+May 11 12:49:32 10.71.60.0 u71600544 [10.71.60.0|get|0|2955|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696e6465782e68746d6c|]
+May 11 12:49:32 10.71.61.0 u71600544 open "/portfolio/design/acs/img/testimonials-2.jpg" flags READ mode 0666
+May 11 12:49:32 10.71.61.0 u71600544 open "/portfolio/design/acs/img/change-savvy.jpg" flags READ mode 0666
+May 11 12:49:32 10.71.61.0 u71600544 open "/portfolio/design/acs/img/diversity.jpg" flags READ mode 0666
+May 11 12:49:32 10.71.61.0 u71600544 open "/portfolio/design/acs/img/testimonials-1.jpg" flags READ mode 0666
+May 11 12:49:32 10.71.61.0 u71600544 open "/portfolio/design/acs/img/sharing-our-story.jpg" flags READ mode 0666
+May 11 12:49:32 10.71.60.0 u71600544 open "/portfolio/design/acs/img/road-to-recovery.jpg" flags READ mode 0666
+May 11 12:49:32 10.71.60.0 u71600544 open "/portfolio/design/acs/img/reach-to-recovery.jpg" flags READ mode 0666
+May 11 12:49:33 10.71.61.0 u71600544 close "/portfolio/design/acs/img/testimonials-2.jpg" bytes read 40790 written 0
+May 11 12:49:33 10.71.61.0 u71600544 [10.71.61.0|get|1|40790|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f74657374696d6f6e69616c732d322e6a7067|]
+May 11 12:49:33 10.71.61.0 u71600544 close "/portfolio/design/acs/img/testimonials-1.jpg" bytes read 40206 written 0
+May 11 12:49:33 10.71.61.0 u71600544 [10.71.61.0|get|1|40206|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f74657374696d6f6e69616c732d312e6a7067|]
+May 11 12:49:33 10.71.61.0 u71600544 close "/portfolio/design/acs/img/change-savvy.jpg" bytes read 51434 written 0
+May 11 12:49:33 10.71.61.0 u71600544 [10.71.61.0|get|1|51434|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f6368616e67652d73617676792e6a7067|]
+May 11 12:49:33 10.71.61.0 u71600544 close "/portfolio/design/acs/img/diversity.jpg" bytes read 59976 written 0
+May 11 12:49:33 10.71.61.0 u71600544 [10.71.61.0|get|1|59976|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f6469766572736974792e6a7067|]
+May 11 12:49:33 10.71.61.0 u71600544 close "/portfolio/design/acs/img/sharing-our-story.jpg" bytes read 57285 written 0
+May 11 12:49:33 10.71.61.0 u71600544 [10.71.61.0|get|1|57285|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f73686172696e672d6f75722d73746f72792e6a7067|]
+May 11 12:49:33 10.71.60.0 u71600544 close "/portfolio/design/acs/img/reach-to-recovery.jpg" bytes read 51010 written 0
+May 11 12:49:33 10.71.60.0 u71600544 close "/portfolio/design/acs/img/road-to-recovery.jpg" bytes read 62681 written 0
+May 11 12:49:33 10.71.60.0 u71600544 [10.71.60.0|get|1|51010|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f72656163682d746f2d7265636f766572792e6a7067|]
+May 11 12:49:33 10.71.60.0 u71600544 [10.71.60.0|get|1|62681|0|0|0|2f706f7274666f6c696f2f64657369676e2f6163732f696d672f726f61642d746f2d7265636f766572792e6a7067|]
+May 11 12:49:33 10.71.60.0 u71600544 open "/portfolio/design/branding/index.html" flags READ mode 0666
+May 11 12:49:33 10.71.60.0 u71600544 close "/portfolio/design/branding/index.html" bytes read 3487 written 0
+May 11 12:49:33 10.71.60.0 u71600544 [10.71.60.0|get|0|3487|0|0|0|2f706f7274666f6c696f2f64657369676e2f6272616e64696e672f696e6465782e68746d6c|]
+May 11 12:49:34 10.71.61.0 u71600544 open "/portfolio/design/branding/img/rlf-logo.jpg" flags READ mode 0666
+May 11 12:49:34 10.71.61.0 u71600544 open "/portfolio/design/branding/img/daka-logo-2.jpg" flags READ mode 0666
+May 11 12:49:34 10.71.61.0 u71600544 open "/portfolio/design/branding/img/fastrax-logo.jpg" flags READ mode 0666
+May 11 12:49:34 10.71.60.0 u71600544 open "/portfolio/design/branding/img/daka-logo-1.jpg" flags READ mode 0666
+May 11 12:49:34 10.71.61.0 u71600544 close "/portfolio/design/branding/img/rlf-logo.jpg" bytes read 29405 written 0
+May 11 12:49:34 10.71.61.0 u71600544 [10.71.61.0|get|0|29405|0|0|0|2f706f7274666f6c696f2f64657369676e2f6272616e64696e672f696d672f726c662d6c6f676f2e6a7067|]
+May 11 12:49:34 10.71.61.0 u71600544 close "/portfolio/design/branding/img/fastrax-logo.jpg" bytes read 39732 written 0
+May 11 12:49:34 10.71.61.0 u71600544 close "/portfolio/design/branding/img/daka-logo-2.jpg" bytes read 24022 written 0
+May 11 12:49:34 10.71.61.0 u71600544 [10.71.61.0|get|0|39732|0|0|0|2f706f7274666f6c696f2f64657369676e2f6272616e64696e672f696d672f666173747261782d6c6f676f2e6a7067|]
+May 11 12:49:34 10.71.61.0 u71600544 [10.71.61.0|get|0|24022|0|0|0|2f706f7274666f6c696f2f64657369676e2f6272616e64696e672f696d672f64616b612d6c6f676f2d322e6a7067|]
+May 11 12:49:34 10.71.60.0 u71600544 close "/portfolio/design/branding/img/daka-logo-1.jpg" bytes read 25749 written 0
+May 11 12:49:34 10.71.60.0 u71600544 [10.71.60.0|get|0|25749|0|0|0|2f706f7274666f6c696f2f64657369676e2f6272616e64696e672f696d672f64616b612d6c6f676f2d312e6a7067|]
+May 11 12:49:34 10.71.60.0 u71600544 open "/portfolio/design/frugalist/index.html" flags READ mode 0666
+May 11 12:49:34 10.71.60.0 u71600544 close "/portfolio/design/frugalist/index.html" bytes read 10117 written 0
+May 11 12:49:34 10.71.60.0 u71600544 [10.71.60.0|get|0|10117|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696e6465782e68746d6c|]
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-top.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-search.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-shipping.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-redirect.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-review.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-form.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-home.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-billing.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-demo.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-wireframe-best.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-top.jpg" bytes read 34258 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|34258|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d746f702e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-billing.jpg" bytes read 17141 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|17141|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d62696c6c696e672e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-form.jpg" bytes read 13032 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|13032|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d666f726d2e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-search.jpg" bytes read 8965 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|8965|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d7365617263682e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-shipping.jpg" bytes read 17148 written 0
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-home.jpg" bytes read 39093 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|17148|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d7368697070696e672e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|39093|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d686f6d652e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-redirect.jpg" bytes read 11031 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|11031|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d72656469726563742e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-demo.jpg" bytes read 18164 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|18164|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d64656d6f2e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-review.jpg" bytes read 17097 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|17097|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d7265766965772e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-wireframe-best.jpg" bytes read 26606 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|26606|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d776972656672616d652d626573742e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-userflow-draft.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-sprint-sketches-wednesday-1.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-sprint-sketches-tuesday-2.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-sprint-sketches-tuesday-3.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-process-map.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-sprint-sketches-tuesday-1.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-top-v2.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-top.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-shipping.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-search.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-userflow-draft.jpg" bytes read 33920 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|33920|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d75736572666c6f772d64726166742e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-sprint-sketches-wednesday-1.jpg" bytes read 95149 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|95149|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d737072696e742d736b6574636865732d7765646e65736461792d312e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-sprint-sketches-tuesday-3.jpg" bytes read 43431 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|43431|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d737072696e742d736b6574636865732d747565736461792d332e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-process-map.jpg" bytes read 12520 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|12520|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d70726f636573732d6d61702e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-sprint-sketches-tuesday-2.jpg" bytes read 59489 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|59489|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d737072696e742d736b6574636865732d747565736461792d322e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-sprint-sketches-tuesday-1.jpg" bytes read 54574 written 0
+May 11 12:49:35 10.71.61.0 u71600544 [10.71.61.0|get|0|54574|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d737072696e742d736b6574636865732d747565736461792d312e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-search.jpg" bytes read 13952 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|13952|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d7365617263682e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-shipping.jpg" bytes read 67414 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|67414|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d7368697070696e672e6a7067|]
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-top-v2.jpg" bytes read 57315 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|57315|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d746f702d76322e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-review.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-top.jpg" bytes read 234265 written 0
+May 11 12:49:35 10.71.60.0 u71600544 [10.71.60.0|get|0|234265|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d746f702e6a7067|]
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-redirect.jpg" flags READ mode 0666
+May 11 12:49:35 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-payment-v2.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-home.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-home-v2.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-form.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-billing.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-best.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-best-v2.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-review.jpg" bytes read 67190 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|1|67190|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d7265766965772e6a7067|]
+May 11 12:49:36 10.71.60.0 u71600544 open "/portfolio/design/frugalist/img/frugalist-mockup-about.jpg" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-redirect.jpg" bytes read 51147 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|1|51147|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d72656469726563742e6a7067|]
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-payment-v2.jpg" bytes read 27109 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|1|27109|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d7061796d656e742d76322e6a7067|]
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-home-v2.jpg" bytes read 37881 written 0
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-form.jpg" bytes read 22069 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|0|37881|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d686f6d652d76322e6a7067|]
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|0|22069|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d666f726d2e6a7067|]
+May 11 12:49:36 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-best-v2.jpg" bytes read 26346 written 0
+May 11 12:49:36 10.71.60.0 u71600544 [10.71.60.0|get|0|26346|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d626573742d76322e6a7067|]
+May 11 12:49:36 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-billing.jpg" bytes read 62640 written 0
+May 11 12:49:36 10.71.60.0 u71600544 [10.71.60.0|get|0|62640|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d62696c6c696e672e6a7067|]
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-home.jpg" bytes read 270109 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|0|270109|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d686f6d652e6a7067|]
+May 11 12:49:36 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-about.jpg" bytes read 34510 written 0
+May 11 12:49:36 10.71.60.0 u71600544 [10.71.60.0|get|0|34510|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d61626f75742e6a7067|]
+May 11 12:49:36 10.71.60.0 u71600544 close "/portfolio/design/frugalist/img/frugalist-mockup-best.jpg" bytes read 177924 written 0
+May 11 12:49:36 10.71.60.0 u71600544 [10.71.60.0|get|0|177924|0|0|0|2f706f7274666f6c696f2f64657369676e2f66727567616c6973742f696d672f66727567616c6973742d6d6f636b75702d626573742e6a7067|]
+May 11 12:49:36 10.71.61.0 u71600544 open "/portfolio/design/irc/irc.html" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 open "/portfolio/design/kkwc/index.html" flags READ mode 0666
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/irc/irc.html" bytes read 16910 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|0|16910|0|0|0|2f706f7274666f6c696f2f64657369676e2f6972632f6972632e68746d6c|]
+May 11 12:49:36 10.71.61.0 u71600544 close "/portfolio/design/kkwc/index.html" bytes read 1848 written 0
+May 11 12:49:36 10.71.61.0 u71600544 [10.71.61.0|get|0|1848|0|0|0|2f706f7274666f6c696f2f64657369676e2f6b6b77632f696e6465782e68746d6c|]
+May 11 12:49:37 10.71.61.0 u71600544 open "/portfolio/design/kkwc/img/kkwp-flyer.jpg" flags READ mode 0666
+May 11 12:49:37 10.71.60.0 u71600544 open "/portfolio/design/kkwc/img/kkwp-santa-flyer.jpg" flags READ mode 0666
+May 11 12:49:37 10.71.61.0 u71600544 close "/portfolio/design/kkwc/img/kkwp-flyer.jpg" bytes read 546822 written 0
+May 11 12:49:37 10.71.61.0 u71600544 [10.71.61.0|get|0|546822|0|0|0|2f706f7274666f6c696f2f64657369676e2f6b6b77632f696d672f6b6b77702d666c7965722e6a7067|]
+May 11 12:49:37 10.71.60.0 u71600544 close "/portfolio/design/kkwc/img/kkwp-santa-flyer.jpg" bytes read 469918 written 0
+May 11 12:49:37 10.71.60.0 u71600544 [10.71.60.0|get|0|469918|0|0|0|2f706f7274666f6c696f2f64657369676e2f6b6b77632f696d672f6b6b77702d73616e74612d666c7965722e6a7067|]
+May 11 12:49:37 10.71.60.0 u71600544 open "/portfolio/design/simplenight/index.html" flags READ mode 0666
+May 11 12:49:37 10.71.60.0 u71600544 close "/portfolio/design/simplenight/index.html" bytes read 7711 written 0
+May 11 12:49:37 10.71.60.0 u71600544 [10.71.60.0|get|0|7711|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696e6465782e68746d6c|]
+May 11 12:49:38 10.71.61.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-wf-events-1.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.61.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-wf-events-2.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.61.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-userflow.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.61.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-mockup-events-2.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.61.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-mockup-events-3.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.60.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-sketch-events.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.60.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-userflow-seats.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.60.0 u71600544 open "/portfolio/design/simplenight/img/simplenight-mockup-events-1.jpg" flags READ mode 0666
+May 11 12:49:38 10.71.61.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-wf-events-2.jpg" bytes read 66249 written 0
+May 11 12:49:38 10.71.61.0 u71600544 [10.71.61.0|get|0|66249|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d77662d6576656e74732d322e6a7067|]
+May 11 12:49:38 10.71.61.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-wf-events-1.jpg" bytes read 89699 written 0
+May 11 12:49:38 10.71.61.0 u71600544 [10.71.61.0|get|0|89699|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d77662d6576656e74732d312e6a7067|]
+May 11 12:49:38 10.71.61.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-userflow.jpg" bytes read 21719 written 0
+May 11 12:49:38 10.71.61.0 u71600544 [10.71.61.0|get|0|21719|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d75736572666c6f772e6a7067|]
+May 11 12:49:38 10.71.60.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-sketch-events.jpg" bytes read 53990 written 0
+May 11 12:49:38 10.71.60.0 u71600544 [10.71.60.0|get|0|53990|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d736b657463682d6576656e74732e6a7067|]
+May 11 12:49:38 10.71.60.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-userflow-seats.jpg" bytes read 24422 written 0
+May 11 12:49:38 10.71.60.0 u71600544 [10.71.60.0|get|0|24422|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d75736572666c6f772d73656174732e6a7067|]
+May 11 12:49:38 10.71.61.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-mockup-events-2.jpg" bytes read 373992 written 0
+May 11 12:49:38 10.71.61.0 u71600544 [10.71.61.0|get|0|373992|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d6d6f636b75702d6576656e74732d322e6a7067|]
+May 11 12:49:38 10.71.61.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-mockup-events-3.jpg" bytes read 335208 written 0
+May 11 12:49:38 10.71.61.0 u71600544 [10.71.61.0|get|0|335208|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d6d6f636b75702d6576656e74732d332e6a7067|]
+May 11 12:49:38 10.71.60.0 u71600544 close "/portfolio/design/simplenight/img/simplenight-mockup-events-1.jpg" bytes read 346753 written 0
+May 11 12:49:38 10.71.60.0 u71600544 [10.71.60.0|get|0|346753|0|0|0|2f706f7274666f6c696f2f64657369676e2f73696d706c656e696768742f696d672f73696d706c656e696768742d6d6f636b75702d6576656e74732d312e6a7067|]
+May 11 12:49:38 10.71.60.0 u71600544 open "/portfolio/design/viaggio/index.html" flags READ mode 0666
+May 11 12:49:38 10.71.60.0 u71600544 close "/portfolio/design/viaggio/index.html" bytes read 16975 written 0
+May 11 12:49:38 10.71.60.0 u71600544 [10.71.60.0|get|0|16975|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696e6465782e68746d6c|]
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/whalr-wireframes-v3.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-userflow.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-wf-homes.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-usability-rnbw.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/whalr-wireframes-v2.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/whalr-wireframes-v1.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-wireframe-home-v1.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-wf-sketch.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-userflow-draft.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-trips-v3.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/whalr-wireframes-v3.jpg" bytes read 61992 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|61992|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7768616c722d776972656672616d65732d76332e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-userflow.jpg" bytes read 97040 written 0
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-wf-homes.jpg" bytes read 64038 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|97040|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d75736572666c6f772e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|64038|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d77662d686f6d65732e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-usability-rnbw.jpg" bytes read 102351 written 0
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/whalr-wireframes-v1.jpg" bytes read 42835 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|102351|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d75736162696c6974792d726e62772e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|42835|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7768616c722d776972656672616d65732d76312e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/whalr-wireframes-v2.jpg" bytes read 44987 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|44987|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7768616c722d776972656672616d65732d76322e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-wireframe-home-v1.jpg" bytes read 67746 written 0
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|67746|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d776972656672616d652d686f6d652d76312e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-userflow-draft.jpg" bytes read 29933 written 0
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-wf-sketch.jpg" bytes read 80289 written 0
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|80289|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d77662d736b657463682e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|29933|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d75736572666c6f772d64726166742e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-trips-v3.jpg" bytes read 29817 written 0
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|29817|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d74726970732d76332e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-past.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-home.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-onboard.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-home-v2.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-empty.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-contact.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sketch-add.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-signup-v2.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-sitemap.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-signin-v3.jpg" flags READ mode 0666
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-past.jpg" bytes read 16664 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|16664|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d706173742e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-home.jpg" bytes read 14158 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|14158|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d686f6d652e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-onboard.jpg" bytes read 40218 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|40218|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d6f6e626f6172642e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-empty.jpg" bytes read 12874 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|12874|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d656d7074792e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-home-v2.jpg" bytes read 33842 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|33842|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d686f6d652d76322e6a7067|]
+May 11 12:49:39 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-contact.jpg" bytes read 10895 written 0
+May 11 12:49:39 10.71.61.0 u71600544 [10.71.61.0|get|0|10895|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d636f6e746163742e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sketch-add.jpg" bytes read 29031 written 0
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-signup-v2.jpg" bytes read 15074 written 0
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|29031|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736b657463682d6164642e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|15074|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d7369676e75702d76322e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-sitemap.jpg" bytes read 39405 written 0
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|39405|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d736974656d61702e6a7067|]
+May 11 12:49:39 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-signin-v3.jpg" bytes read 17530 written 0
+May 11 12:49:39 10.71.60.0 u71600544 [10.71.60.0|get|0|17530|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d7369676e696e2d76332e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-signin-v1.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-reservations.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-profile-v4.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-profile-v2.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-profile-v3.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-profile-v1.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-persona.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-onboarding.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-onboard.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-login.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-signin-v1.jpg" bytes read 23675 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|23675|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d7369676e696e2d76312e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-reservations.jpg" bytes read 22240 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|22240|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d7265736572766174696f6e732e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-profile-v4.jpg" bytes read 24852 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|24852|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d70726f66696c652d76342e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-profile-v3.jpg" bytes read 22944 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|22944|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d70726f66696c652d76332e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-profile-v2.jpg" bytes read 18258 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|18258|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d70726f66696c652d76322e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-profile-v1.jpg" bytes read 37266 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|37266|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d70726f66696c652d76312e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-persona.jpg" bytes read 114677 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|114677|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d706572736f6e612e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-onboarding.jpg" bytes read 25328 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|25328|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6f6e626f617264696e672e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-login.jpg" bytes read 52658 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|52658|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d6c6f67696e2e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-onboard.jpg" bytes read 88862 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|88862|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6f6e626f6172642e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-link.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-link-login.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-home-detail.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-home.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-feedback.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-docs.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-mockups-bpass.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-logo.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-loading-v2.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-loading-v1.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-link.jpg" bytes read 38477 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|38477|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d6c696e6b2e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-link-login.jpg" bytes read 78332 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|78332|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d6c696e6b2d6c6f67696e2e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-home.jpg" bytes read 85108 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|85108|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d686f6d652e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-home-detail.jpg" bytes read 95471 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|95471|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d686f6d652d64657461696c2e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-feedback.jpg" bytes read 79715 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|79715|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d666565646261636b2e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-docs.jpg" bytes read 66729 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|66729|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d646f63732e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-loading-v1.jpg" bytes read 17406 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|17406|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6c6f6164696e672d76312e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-logo.jpg" bytes read 64285 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|64285|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6c6f676f2e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-loading-v2.jpg" bytes read 8613 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|8613|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6c6f6164696e672d76322e6a7067|]
+May 11 12:49:40 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-mockups-bpass.jpg" bytes read 24723 written 0
+May 11 12:49:40 10.71.60.0 u71600544 [10.71.60.0|get|0|24723|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6d6f636b7570732d62706173732e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-journey.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-journey-revision.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-journey-draft.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-home-v3.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-home-v2.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-home-v1.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-bpass.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-contacts-v3.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/viaggio-affinity.jpg" flags READ mode 0666
+May 11 12:49:40 10.71.60.0 u71600544 open "/portfolio/design/viaggio/img/Loading Screen.png" flags READ mode 0666
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-journey.jpg" bytes read 34726 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|34726|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6a6f75726e65792e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-journey-revision.jpg" bytes read 201909 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|201909|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6a6f75726e65792d7265766973696f6e2e6a7067|]
+May 11 12:49:40 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-journey-draft.jpg" bytes read 62012 written 0
+May 11 12:49:40 10.71.61.0 u71600544 [10.71.61.0|get|0|62012|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d6a6f75726e65792d64726166742e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-home-v3.jpg" bytes read 16417 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|1|16417|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d686f6d652d76332e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-home-v2.jpg" bytes read 18511 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|1|18511|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d686f6d652d76322e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-home-v1.jpg" bytes read 16388 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|1|16388|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d686f6d652d76312e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-contacts-v3.jpg" bytes read 24795 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|1|24795|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d636f6e74616374732d76332e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-bpass.jpg" bytes read 23312 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|1|23312|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d62706173732e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/viaggio-affinity.jpg" bytes read 71763 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|1|71763|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f7669616767696f2d616666696e6974792e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/viaggio/img/Loading Screen.png" bytes read 244126 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|1|244126|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f4c6f6164696e672053637265656e2e706e67|]
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/Home v2.png" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/viaggio/img/Home v1.png" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/Home v2.png" bytes read 80435 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|80435|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f486f6d652076322e706e67|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/viaggio/img/Home v1.png" bytes read 99220 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|99220|0|0|0|2f706f7274666f6c696f2f64657369676e2f7669616767696f2f696d672f486f6d652076312e706e67|]
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/index.html" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-wireframe-4.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-wireframe-3.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-wireframe-2.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-wireframe-1.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-userflow.png" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-upload-image.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-usability-1.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/index.html" bytes read 11097 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|11097|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696e6465782e68746d6c|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-wireframe-4.jpg" bytes read 56746 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|56746|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d776972656672616d652d342e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-wireframe-3.jpg" bytes read 34335 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|34335|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d776972656672616d652d332e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-wireframe-2.jpg" bytes read 47313 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|47313|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d776972656672616d652d322e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-wireframe-1.jpg" bytes read 20366 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|0|20366|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d776972656672616d652d312e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-upload-image.jpg" bytes read 34621 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|0|34621|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d75706c6f61642d696d6167652e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-userflow.png" bytes read 16301 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|0|16301|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d75736572666c6f772e706e67|]
+May 11 12:49:41 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-usability-1.jpg" bytes read 51546 written 0
+May 11 12:49:41 10.71.60.0 u71600544 [10.71.60.0|get|0|51546|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d75736162696c6974792d312e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-4.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-3.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 sent status No such file
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-1.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-4.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday.jpg" bytes read 115775 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|115775|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d7765646e65736461792e6a7067|]
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-3.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-1.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-2.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-4.jpg" bytes read 100386 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|100386|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d7765646e65736461792d342e6a7067|]
+May 11 12:49:41 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-2.jpg" flags READ mode 0666
+May 11 12:49:41 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-3.jpg" bytes read 77612 written 0
+May 11 12:49:41 10.71.61.0 u71600544 [10.71.61.0|get|0|77612|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d7765646e65736461792d332e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-1.jpg" bytes read 65922 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|1|65922|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d7765646e65736461792d312e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday.jpg" bytes read 66676 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|1|66676|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d747565736461792e6a7067|]
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-4.jpg" bytes read 35155 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|1|35155|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d747565736461792d342e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-sprint-sketches-monday.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-splash.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-3.jpg" bytes read 21526 written 0
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-1.jpg" bytes read 36354 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|1|21526|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d747565736461792d332e6a7067|]
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|1|36354|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d747565736461792d312e6a7067|]
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-tuesday-2.jpg" bytes read 31780 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|1|31780|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d747565736461792d322e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-wednesday-2.jpg" bytes read 51625 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|1|51625|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d7765646e65736461792d322e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-post.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-post-text.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-post-details.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-menu.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-sprint-sketches-monday.jpg" bytes read 22695 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|22695|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d737072696e742d736b6574636865732d6d6f6e6461792e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-splash.jpg" bytes read 7852 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|7852|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d73706c6173682e6a7067|]
+May 11 12:49:42 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-image.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-login-1.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/portfolio/design/whalr/img/whalr-home.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-editpost.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-post.jpg" bytes read 90038 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|90038|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d706f73742e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-post-text.jpg" bytes read 49112 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|49112|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d706f73742d746578742e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-post-details.jpg" bytes read 50394 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|50394|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d706f73742d64657461696c732e6a7067|]
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-menu.jpg" bytes read 11257 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|11257|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d6d656e752e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-comparison-share.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-login-1.jpg" bytes read 10568 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|10568|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d6c6f67696e2d312e6a7067|]
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-image.jpg" bytes read 35489 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|35489|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d696d6167652e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-comparison-home.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 close "/portfolio/design/whalr/img/whalr-home.jpg" bytes read 67718 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|67718|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d686f6d652e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-editpost.jpg" bytes read 16958 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|16958|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d65646974706f73742e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/portfolio/design/whalr/img/whalr-comment.jpg" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-comparison-share.jpg" bytes read 54667 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|54667|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d636f6d70617269736f6e2d73686172652e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-comparison-home.jpg" bytes read 53187 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|53187|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d636f6d70617269736f6e2d686f6d652e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/portfolio/design/whalr/img/whalr-comment.jpg" bytes read 21253 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|21253|0|0|0|2f706f7274666f6c696f2f64657369676e2f7768616c722f696d672f7768616c722d636f6d6d656e742e6a7067|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/logs/access.log.19.5.gz" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 open "/logs/access.log.19.3.gz" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/logs/access.log.19.2.gz" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/logs/access.log.19.1.gz" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/logs/access.log.18.2.gz" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 open "/logs/access.log.18.6.gz" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 open "/logs/access.log.17.gz" flags READ mode 0666
+May 11 12:49:42 10.71.61.0 u71600544 close "/logs/access.log.19.5.gz" bytes read 2650 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|2650|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e352e677a|]
+May 11 12:49:42 10.71.61.0 u71600544 close "/logs/access.log.19.3.gz" bytes read 2038 written 0
+May 11 12:49:42 10.71.61.0 u71600544 [10.71.61.0|get|0|2038|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e332e677a|]
+May 11 12:49:42 10.71.60.0 u71600544 close "/logs/access.log.19.2.gz" bytes read 3542 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|3542|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e322e677a|]
+May 11 12:49:42 10.71.61.0 u71600544 open "/logs/access.log.18.4.gz" flags READ mode 0666
+May 11 12:49:42 10.71.60.0 u71600544 close "/logs/access.log.19.1.gz" bytes read 2257 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|2257|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e312e677a|]
+May 11 12:49:42 10.71.60.0 u71600544 close "/logs/access.log.18.2.gz" bytes read 3299 written 0
+May 11 12:49:42 10.71.60.0 u71600544 [10.71.60.0|get|0|3299|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e322e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/access.log.16.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.18.6.gz" bytes read 2933 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|1|2933|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e362e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/access.log.12.gz" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 close "/logs/access.log.17.gz" bytes read 24608 written 0
+May 11 12:49:43 10.71.60.0 u71600544 [10.71.60.0|get|1|24608|0|0|0|2f6c6f67732f6163636573732e6c6f672e31372e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/access.log.18.7.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/access.log.18.5.gz" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/access.log.18.3.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.18.4.gz" bytes read 3487 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|1|3487|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e342e677a|]
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/access.log.19.6" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/access.log.19.4.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.16.gz" bytes read 20673 written 0
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/access.log.15.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|20673|0|0|0|2f6c6f67732f6163636573732e6c6f672e31362e677a|]
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/access.log.18.1.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.12.gz" bytes read 70362 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|70362|0|0|0|2f6c6f67732f6163636573732e6c6f672e31322e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.18.7.gz" bytes read 3747 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|3747|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e372e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.18.5.gz" bytes read 3485 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|3485|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e352e677a|]
+May 11 12:49:43 10.71.60.0 u71600544 close "/logs/access.log.18.3.gz" bytes read 6051 written 0
+May 11 12:49:43 10.71.60.0 u71600544 [10.71.60.0|get|0|6051|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e332e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/access.log.11.gz" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 close "/logs/access.log.19.6" bytes read 19106 written 0
+May 11 12:49:43 10.71.60.0 u71600544 [10.71.60.0|get|0|19106|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e36|]
+May 11 12:49:43 10.71.60.0 u71600544 close "/logs/access.log.19.4.gz" bytes read 3785 written 0
+May 11 12:49:43 10.71.60.0 u71600544 [10.71.60.0|get|0|3785|0|0|0|2f6c6f67732f6163636573732e6c6f672e31392e342e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/traffic.db" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.15.gz" bytes read 48958 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|48958|0|0|0|2f6c6f67732f6163636573732e6c6f672e31352e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/last_traffic" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 close "/logs/access.log.18.1.gz" bytes read 4798 written 0
+May 11 12:49:43 10.71.60.0 u71600544 [10.71.60.0|get|0|4798|0|0|0|2f6c6f67732f6163636573732e6c6f672e31382e312e677a|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/info.py" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/info.pl" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/info.php5" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/access.log.14.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/last_traffic" bytes read 0 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/access.log.11.gz" bytes read 85306 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|85306|0|0|0|2f6c6f67732f6163636573732e6c6f672e31312e677a|]
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/access.log.13.gz" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/traffic.db" bytes read 40960 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|40960|0|0|0|2f6c6f67732f747261666669632e6462|]
+May 11 12:49:43 10.71.61.0 u71600544 open "/logs/sftp.log" flags READ mode 0666
+May 11 12:49:43 10.71.60.0 u71600544 open "/logs/.htaccess" flags READ mode 0666
+May 11 12:49:43 10.71.61.0 u71600544 close "/logs/info.py" bytes read 6384 written 0
+May 11 12:49:43 10.71.61.0 u71600544 [10.71.61.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
